@@ -3,7 +3,7 @@
 <div class="sidebar clearfix">
     <ul class="sidebar-panel nav">
         <li><div class="header">
-			<span class="label" id="sd_0"><a href="http://127.0.0.36:8080/putong_index.php">会员首页</a></span></div>
+			<span class="label" id="sd_0"><a href="http://127.0.0.38:8080/putong_index.php">会员首页</a></span></div>
 		</li>
 		<li><div class="header inactive">
                 <span class="label" id="sd1_1">网络媒体</span></div>
