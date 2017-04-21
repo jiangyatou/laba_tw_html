@@ -517,7 +517,7 @@ ul.add_resource li a{	font-size:14px;	font-weight:400;	color:#ffffff;	height:30p
 	background:#2C9FDD;	color:#fff;		font-size:14px;	cursor:pointer;	}
 
 /*	右边漂浮	*/
-.float_serv{	background:#fff;	position:fixed;	right:-1px;	top:140px;	width:50px;	min-height:50px;	border:1px solid #CCCCCC;	z-index:1000;	}
+.float_serv{	background:#fff;	position:fixed;	right:-1px;	top:140px;	width:50px;	min-height:50px;	border:1px solid #CCCCCC;	z-index:1000;	display:none;	}
 .float_serv ul{		}
 .float_serv ul li{		float:left;	width:50px;	height:50px;	border-top:1px solid #ccc;	}
 .float_serv ul li a{	float:left;	width:50px;	height:50px;	background-image:url(/images/bg_serv.gif);	}
@@ -586,7 +586,7 @@ body .pay_info_w .layui-layer-title{	border-radius:8px 8px 0 0;	background:#fff;
 .btn_a:hover{	color:#fff;	}
 
 /*	个人-安全设置	*/
-.safe_1{	margin:60px auto 0;	padding:0 15px;	}
+.safe_1{	margin:50px auto 0;	padding:0 15px;	}
 .safe_1_t{	margin:0 auto 0;	width:370px;	aborder:1px solid #ace;	}
 .safe_1_t .l img{	width:95px;	}
 .safe_1_t .r{	float:none;	margin-left:125px;	display:block;	line-height:30px;	padding-top:2px;	font-size:14px;	color:#333333;	}
@@ -621,7 +621,7 @@ ul.ul_table1 li span.sp3{	width:10%;	margin-left:8%;	text-align:left;	color:#02a
 ul.ul_table1 li span.sp4{	width:6%;	margin-left:3%;	margin-right:3%;	float:right;	text-align:left;	color:#999;	}
 
 /*	个人-安全设置-邮箱	*/
-.safe_2{	margin:75px auto 0;	padding:0 15px;	width:60%;	min-width:450px;	}
+.safe_2{	margin:65px auto 0;	padding:0 15px;	width:60%;	min-width:450px;	}
 .safe_2 .WMain3{	margin:10px auto 15px;	float:none;	clear:both;	}
 .safe_2 .WMain3 p{	width:160px;	text-align:right;	margin-right:17px;	}
 .safe_2 .WMain3>div{	margin-left:177px;		font-size:12px;	color:#999999;	padding:10px 0 0 0;		line-height:22px;	}
@@ -1127,11 +1127,22 @@ body.fold .sidebar{	width:70px;		}
 body.fold .sidebar .sidebar-panel .header{		padding-left:20px;	}
 body.fold .content{	margin-left:70px;	}
 	
+
+.s1_tab{	width:100%;	margin:35px auto 0;	background:#fff;	aheight:70px;	padding:0 0 12px 0;	}
+.s1_tab ul{			width:91%;	margin:0 auto;	}
+.s1_tab ul li{		float:left;	margin:11px 10px 0 0;	}
+.s1_tab ul li a{	float:left;	font-size:20px;	color:#2f4050;	float:left;	height:48px;	line-height:48px;	padding:0 25px;		}
+.s1_tab ul li.cur{		background:#1ab394;	border-radius:8px;	}
+.s1_tab ul li.cur a{	color:#ffffff;			}
 	
-	
-	
-	
-	
+.place{	font-size:14px;	color:#666;		width:93%;	margin:20px auto 0;	line-height:30px;	}
+
+.main_s{	background:#fff;	padding:30px 1.7% 120px;	width:93%;	width:89.6%;	margin:6px auto 45px;	border-radius:12px;	box-shadow:2px 2px 1px #ddd;	}	
+.title3{	font-size:20px;	color:#1ab394;	font-weight:400;	height:32px;	line-height:32px;	}
+.title3 a{		}
+.title3 strong{	font-weight:400;	float:left;	padding:0 10px;	background:#fff;	position:relative;	z-index:10;	}
+.title3_i{	background:url(../images/line_s.png) repeat-x center center;	display:block;	margin:0 38px 0 95px;	height:32px;	line-height;32px;	}
+.title3_img{	float:right;	padding:10px 7px;	}
 	
 	
 	

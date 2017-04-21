@@ -7,12 +7,21 @@
 </style>
 
 <div class="clr" id="f_nav">
-	<strong>会员中心</strong>
+	<strong>管理员</strong>
 	<a href="index.php">管理员首页</a>
-	<a href="putong_index.php">普通会员首页</a>
+	<br/>
 	
+	<strong>普通会员</strong>
+	<a href="putong_index.php">普通会员首页</a>
+	<a href="person_safe_phone.php">安—绑定手机</a>
+	<a href="person_safe_email.php">安—绑定邮箱</a>
+	<a href="person_safe_question.php">安—密保</a>
+	<a href="person_safe.php">安全设置</a>
+	<a href="person_safe_changepass.php">安—修改密码</a>
+	<a href="person_safe_zhengjianinfo.php">安—证件信息</a>
 	<a href="help.php">帮助中心</a>
 	<a href="help-view.php">帮助中心—查看</a>
+	<a href="chongzhi.php">充值</a>
 	
 	<br/>
 
