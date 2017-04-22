@@ -77,7 +77,6 @@
 					<li><a href="">申诉订单</a></li>
 					<li><a href="">退还</a></li>
 				</ul>
-				<a class="btn_o" href="">订单申诉</a>
 			</div>
 			<div class="tab1_body">
 <table class="table_in1 cur" id="datatable1">
@@ -228,6 +227,7 @@
 				</div>
 			</div>
 
+		</div>
 		
 	</div>
 	

@@ -39,7 +39,7 @@
 </div>  
 
     <!--右弹购物车-->
-    <div role="tabpanel" class="sidepanel" style="display:block;">
+    <div role="tabpanel" class="sidepanel" style="display:none;">
 		<div class="ITuser">
 			<div class="Hlogo"><img src="img/bn66.png" /><div class="Hltext">5</div></div>
 			<div class="IName">

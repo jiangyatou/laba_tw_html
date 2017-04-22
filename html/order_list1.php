@@ -208,6 +208,7 @@
 				</div>
 			</div>
 
+		</div>
 		
 	</div>
 	
@@ -300,7 +301,7 @@ $(function(){
 							if( $.fn.dataTable.isDataTable(" #datatable1 ") ){
 								datatable.destroy();
 							}
-                            $('#listcontent').html("<tr><td colspan='7'>没有查询到数据！</td></tr>");			//9 表格列数
+                            $('#listcontent').html("<tr><td colspan='7'>没有查询到数据！</td></tr>");			//7 表格列数
 //                        window.location.reload();
                         }
                     }
