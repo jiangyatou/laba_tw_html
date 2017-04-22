@@ -39,17 +39,19 @@
 			<span class="title3_i"></span>
 		</h3>
 		
-		<div class="IF1 clearfix" style="padding:5% 4% 0 8%;">
+		<div class="IF1 clearfix" style="padding:70px 0% 0 5%;width:75%;">
 			<div class="IF3"><p>充值金额:</p>
-				 <input type="text" name="textfield" id="textfield"  class="IFN1" style="border-color:#EEEEEE;border-radius:5px;height:36px;line-height:36px;" />
+				 <input type="text" name="name1" id="name1"  class="IFN1" style="border-color:#EEEEEE;border-radius:5px;height:36px;line-height:36px;" />
 				 <span>元</span>
 			</div>
 			<div class="LGnt8">
-				<li>500元</li>
-				<li>1000元</li>
-				<li>2000元</li>
-				<li>5000元</li>
-				<li>10000元</li>
+				<ul>
+					<li>500元</li>
+					<li>1000元</li>
+					<li>2000元</li>
+					<li>5000元</li>
+					<li>10000元</li>
+				</ul>
 			</div>
 			<div class="IF3"><p>充值方式:</p>
 				<ul class="LGnt9">
@@ -81,21 +83,13 @@
 <?php include("foot.php"); ?>
 
 <script type="text/javascript">
-
-//	$(".logo").addClass("hidden");
 $(function(){
-//	$(".sidebar-open-button").click();
+	$(".LGnt8 ul li").click(function(){
+		var a = $.trim($(this).html());
+		a = a.replace("元","");
+		$("input[name=name1]").val(a);
+	});
 });
-
-$("#input_file").change(function(){
-//	var filepath=$(this).val();
-//	$("#path_file").val(filepath);	// C:\fakepath\1.jpg
-	
-	var path=$(this).val();
-	var path1 = path.lastIndexOf("\\");
-	var name = path.substring(path1+1);
-	$("#path_file").val(name);
-})
 
 </script>
 

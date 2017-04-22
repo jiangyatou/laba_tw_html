@@ -22,6 +22,8 @@
 	<a href="help.php">帮助中心</a>
 	<a href="help-view.php">帮助中心—查看</a>
 	<a href="chongzhi.php">充值</a>
+	<a href="order_list1.php">订单管理 - 申诉订单列表</a>
+	<a href="order_list.php">订单管理</a>
 	
 	<br/>
 
