@@ -302,6 +302,7 @@ $(function(){
                     type:"post",
 //					url:"/Admin/searchnewspage",
 					url:"data_order_list.php",
+					dataType: 'html',
                     data:{
                         'start':$("#datepicker1").val(),
                         'end':$("#datepicker2").val(),
