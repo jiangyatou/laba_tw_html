@@ -1188,9 +1188,43 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .settle{	float:right;	background:#73d7cd;	font-size:26px;	color:#2f4050;		padding:0 33px;	border-radius:0 6px 6px 0;	}
 .settle:hover{	color:#2f4050;		}
 
+.wrap_fl{	float:left;		width:50%;	margin:0 0 0 5%;	padding-right:5%;	border-right:1px dashed #DEDEDE;	}
+.info1_f{	font-size:12px;	color:#999;	line-height:20px;	float:left;		padding:6px 0;	font-style:italic;	}
+.info1_f i{	color:#f00;	font-size:14px;		float:left;	margin-right:6px;	padding-top:3px;	font-style:normal;	}
+.valign_m{	display:table-cell;	vertical-align:middle;	float:none;	}
 
-	
-	
-	
-	
-	
+.wrap_fr{	float:right;	width:35%;	margin-right:4%;	}
+.wrap_fr1{	padding-top:90px;	width:85%;	margin-left:10%;	color:#999999;		}
+.wrap_fr1 h3{	font-size:16px;		line-height:30px;	font-weight:400;	padding-bottom:5px;	}
+.wrap_fr1 p{	font-size:14px;		line-height:24px;	}
+.wrap_fr2{		width:82%;	margin-left:18%;	padding-top:15%;		}
+.wrap_fr2 img{	width:100%;	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

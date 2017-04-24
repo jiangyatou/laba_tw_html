@@ -72,7 +72,7 @@
 					</div>
 				</div>
 				<div class="item_f item_f_2" style="margin-top:50px;">
-					<div class="r"><input type="submit" value="确认" class="sub_f1"></div>
+					<div class="r"><input type="submit" value="确 认" class="sub_f1"></div>
 				</div>
 			</form>
 			
