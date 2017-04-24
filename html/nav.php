@@ -25,7 +25,11 @@
 	<a href="order_list1.php">订单管理 - 申诉订单列表</a>
 	<a href="order_list.php">订单管理</a>
 	<a href="order_shensu.php">订单申诉</a>
+	<a href="car_list.php">购物车订单</a>
 	
 	<br/>
+	
+	<strong>先放着</strong>
+	<a href="" >订单详情</a>
 
 </div>

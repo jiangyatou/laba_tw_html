@@ -51,7 +51,7 @@
 			<div class="sidepanel-open-button"></div>
 		</div>
         <div style="float:left;height:auto;padding-bottom:30px;" >
-			<form action="car.php" method="post" id="form_tcar">
+			<form action="car_list.php" method="post" id="form_tcar">		<!--	car.php	-->
 				<div class="IIO_nt">购物车共：<span>20</span>个</div>
 				<div class="IIO_line"></div>
 				<ul class="ITorder"  id="apDiv1">

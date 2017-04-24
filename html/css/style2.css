@@ -540,17 +540,6 @@ a.txt9_2{	background:#2C9FDD;		margin-left:10px;	}
 
 /*	订单支付	*/
 .table_in1 td.alignleft{		text-align:left;	padding:0 30px;	}
-.info3{		padding:0;	aheight:52px;	line-height:52px;	background:#8A929F;	color:#fff;	font-size:14px;	}
-.info3 label{			}
-.info3 label input{		margin:0 5px 0 12px;	vertical-align:middle;	position:relative;	top:-1px;	}
-.info3 a{	color:#fff;		}
-.delorder{	margin-left:42px;	}
-.info3 span{	float:right;	}
-.info3 span.sp1{	margin-right:42px;	}
-.info3 span.sp2{	margin-right:80px;	}
-.info3 span i{	font-style:normal;	}
-.settle{	float:right;	background:#2C9FDD;	font-size:24px;	color:#fff;		padding:0 33px;	}
-.settle:hover{	color:#fff;		}
 
 body .pay_info_w{	border-radius:8px;	}
 body .pay_info_w .layui-layer-title{	border-radius:8px 8px 0 0;	background:#fff;	height:20px;	border-bottom:none;	}
@@ -1183,11 +1172,22 @@ body.fold .content{	margin-left:70px;	}
 	border-radius: 5px;	margin-left:27%;	}
 .upload_f1{		position: absolute;	left: 0;	top: 0;	padding: 0;	width: 116px;	height: 95px;	margin: 0;	filter:alpha(opacity=0);	opacity:0;		}
 	
+.banner2{	width:93%;	margin:30px auto 0;	border-bottom:2px solid #B5B5B5;	box-shadow:1px 2px 2px #DCDCDC;		}
+table.table_ah tr td{		height:40px;	padding:10px 5px;	}
+table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%;	padding-right:2%;	}
 	
-	
-	
-	
-	
+.info3{		padding:0;	aheight:52px;	line-height:50px;	background:#8A929F;	color:#fff;	font-size:14px;	margin:30px 20px 0;		border-radius:6px;	}
+.info3 label{			}
+.info3 label input{		margin:0 5px 0 12px;	vertical-align:middle;	position:relative;	top:-1px;	}
+.info3 .delorder{	color:#fff;		}
+.delorder{	margin-left:42px;	}
+.info3 span{	float:right;	}
+.info3 span.sp1{	margin-right:42px;	}
+.info3 span.sp2{	margin-right:80px;	}
+.info3 span i{	font-style:normal;	}
+.settle{	float:right;	background:#73d7cd;	font-size:26px;	color:#2f4050;		padding:0 33px;	border-radius:0 6px 6px 0;	}
+.settle:hover{	color:#2f4050;		}
+
 
 	
 	

@@ -85,98 +85,10 @@
 <?php include("foot.php"); ?>
 
 <script type="text/javascript">
-/*	日历	*/
-	if( $('#datepicker1').length>0 && typeof(picker1)!="object" ){
-		var picker1 = new Pikaday({
-			field: document.getElementById('datepicker1'),
-			firstDay: 1,
-			format: "YYYY-MM-DD",
-			minDate: new Date('2000-01-01'),
-			maxDate: new Date('2020-12-31'),
-			yearRange: [2000,2020]
-		});
-	}
-	if( $('#datepicker2').length>0 && typeof(picker2)!="object" ){
-		var picker2 = new Pikaday({
-			field: document.getElementById('datepicker2'),
-			firstDay: 1,
-			format: "YYYY-MM-DD",
-			minDate: new Date('2000-01-01'),
-			maxDate: new Date('2020-12-31'),
-			yearRange: [2000,2020]
-		});
-	}
-
 	
 $(function(){
-	$(".tab1>ul>li>a").unbind("click");
-});
 
-//<div id="datatable1_filter" class="dataTables_filter"><label>搜索<input type="search" class="" placeholder="过滤..." aria-controls="datatable1"></label></div>
-	var datatable;
-	$(function () {
-			var dt_option = {
-				"searching" : false,		//是否允许Datatables开启本地搜索
-				"paging" : true,			//是否开启本地分页
-				"pageLength" : 8,			//每页显示记录数
-				"lengthChange" : false,		//是否允许用户改变表格每页显示的记录数 
-				"lengthMenu": [ 5, 10, 100 ],		//用户可选择的 每页显示记录数
-				"info" : true,
-				"columnDefs" : [{
-		        	"targets": 'nosort',
-					"orderable": false
-				}],
-				"pagingType": "simple_numbers",
-				"language": {
-					"search": "搜索",
-					sZeroRecords : "没有查询到数据",
-					"info": "显示第 _PAGE_/_PAGES_ 页，共_TOTAL_条",
-					"infoFiltered": "(筛选自_MAX_条数据)",
-					"infoEmpty": "没有符合条件的数据",
-					oPaginate: {    
-						"sFirst" : "首页",
-						"sPrevious" : "上一页",
-						"sNext" : "下一页",
-						"sLast" : "尾页"    
-					},
-					searchPlaceholder: "过滤..."
-				},
-				"order" : [[3,"desc"]]
-			};
-			datatable =  $('#datatable1').DataTable(dt_option);
-//			var _token = $('input[name="_token"]').val();
-            $("#searchnews").click(function () {
-                $.ajax({
-                    type:"post",
-//					url:"/Admin/searchnewspage",
-					url:"data_order_list.php",
-					dataType: 'html',
-                    data:{
-                        'start':$("#datepicker1").val(),
-                        'end':$("#datepicker2").val(),
-                        'mediatype':$("#mediatype").val(),
-                        'orderid':$("#keyword").val()
-                    },
-                    success:function (msg) {
-						console.log("msg:" + msg);
-                        if (msg) {
-							if( $.fn.dataTable.isDataTable(" #datatable1 ") ){
-								datatable.destroy();
-							}
-							$('#listcontent').html(msg);
-							datatable =  $('#datatable1').DataTable(dt_option);
-                        } else {
-							if( $.fn.dataTable.isDataTable(" #datatable1 ") ){
-								datatable.destroy();
-							}
-                            $('#listcontent').html("<tr><td colspan='9'>没有查询到数据！</td></tr>");			//9 表格列数
-//                        window.location.reload();
-                        }
-                    }
-                })
-            })
-			
-	})
+});
 
 
 </script>
