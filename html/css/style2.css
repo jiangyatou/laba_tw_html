@@ -1200,8 +1200,10 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .wrap_fr2{		width:82%;	margin-left:18%;	padding-top:15%;		}
 .wrap_fr2 img{	width:100%;	}
 
+.IFN5 li.cur{	    background:#2856b6;	color:#fff;	}
 
-
+.wrap_h3{	font-size:18px;color:#2f4050;line-height:30px;text-align:center;	font-weight:400;	}
+.wrap_h4{	font-size:36px;color:#fe0101;line-height:60px;text-align:center;margin-top:10px;margin-bottom:60px;	font-weight:400;	}
 
 
 

@@ -27,6 +27,10 @@
 	<a href="order_shensu.php">订单申诉</a>
 	<a href="car_list.php">购物车订单结算</a>
 	<a href="person_edit.php">会员中心</a>
+	<a href="fapiao.php">申请发票</a>
+	<a href="tixian.php">提现</a>
+	<a href="">完成支付</a>
+	<a href="">头部搜索结果</a>
 	
 	<br/>
 	
