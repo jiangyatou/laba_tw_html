@@ -31,6 +31,8 @@
 	<a href="tixian.php">提现</a>
 	<a href="order_payment_1.php">完成支付</a>
 	<a href="S_results.php">头部搜索结果</a>
+	<a href="news_view.php">新闻阅读</a>
+	<a href="news_lsit.php">新闻中心</a>
 	
 	<br/>
 	

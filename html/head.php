@@ -19,7 +19,7 @@
         <div class="sidepanel-open-button"></div>
     </div>
 	<div class="search_top">
-		<form id="form_top" method="post" action="">
+		<form id="form_top" method="post" action="S_results.php">
 			<label class="w_key_ftop"><input type="text" name="key_ftop" class="key_ftop" placeholder="搜索" /></label>
 			<input type="submit" name="submit" class="sub_ftop" value="" />
 		</form>
