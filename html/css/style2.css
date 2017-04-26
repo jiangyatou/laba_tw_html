@@ -553,21 +553,6 @@ body .pay_info_w .layui-layer-title{	border-radius:8px 8px 0 0;	background:#fff;
 .pay_info .item .pass{	height:44px;	border:1px solid #EEEEEE;	border-radius:6px;	width:308px;	padding:0 10px;	font-size:14px;	color:#d8d8d8;		}
 .pay_info .item .sub{	height:44px;	background:#FF4A50;	border-radius:8px;	width:330px;	text-align:center;	font-size:18px;	color:#fff;	border:none;	cursor:pointer;	}
 
-/*	订单支付/交易成功	*/
-.w_success{		width:400px;	max-width:80%;	margin:130px auto 0;	abackground:#000;	padding:0;	}
-.w_success_t{		margin-left:30px;	}
-.w_success_t img{	float:left;		width:52px;	height:52px;	}
-.w_success_t div{	margin-left:22px;	float:left;	}
-.w_success_t h3{	font-size:30px;	color:#67c739;	line-height:46px;	}
-.w_success_t p{		font-size:14px;	color:#bbbbbb;	line-height:20px;	}
-.w_success_m{		margin-top:40px;	line-height:28px;	color:#bbb;	font-size:14px;	}
-.w_success_m p{			}
-.w_success_m p a{	color:#2c9fdd;	padding:0 8px;	}
-.w_success_m p a:first-child{	padding:0 8px 0 0;	}
-.w_success_b{		margin-top:70px;	}
-.btn_a{	background:#E53935;	width:180px;	height:52px;	line-height:52px;	color:#ffffff;	font-size:22px;	text-align:center;	display:block;
-	margin:0 auto;	border-radius:5px;	}
-.btn_a:hover{	color:#fff;	}
 
 /*	个人-安全设置	*/
 .safe_1{	margin:50px auto 0;	padding:0 15px;	}
@@ -1206,8 +1191,23 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .wrap_h4{	font-size:36px;color:#fe0101;line-height:60px;text-align:center;margin-top:10px;margin-bottom:60px;	font-weight:400;	}
 
 
+/*	订单支付/交易成功	*/
+.w_success{		width:400px;	max-width:80%;	margin:0px auto 0;	abackground:#000;	padding:100px 0 280px;	}
+.w_success_t{		margin-left:30px;	}
+.w_success_t img{	float:left;		width:52px;	height:52px;	}
+.w_success_t div{	margin-left:22px;	float:left;	}
+.w_success_t h3{	font-size:30px;	color:#67c739;	line-height:46px;	}
+.w_success_t p{		font-size:14px;	color:#bbbbbb;	line-height:20px;	}
+.w_success_m{		margin-top:30px;	line-height:28px;	color:#2f4050;	font-size:14px;		}
+.w_success_m p{			}
+.w_success_m p a{	color:#1ab394;	padding:0 8px;	}
+.w_success_m p a:first-child{	padding:0 8px 0 0;	}
+.w_success_b{		margin-top:70px;	}
+.btn_a{	background:#E53935;	width:180px;	height:52px;	line-height:52px;	color:#ffffff;	font-size:22px;	text-align:center;	display:block;
+	margin:0 auto;	border-radius:5px;	}
+.btn_a:hover{	color:#fff;	}
 
-
+.table_in1 td.media-pic img{	width:auto;	height:42px;	max-width:100%;	overflow:hidden;	margin:0px 10px 0 0;	}
 
 
 
