@@ -48,13 +48,16 @@
 							<option value="">其他</option>
 						  </select>
 					</div>
-					<div class="IF3"><p>可开具金额:</p>
+					<div class="IF3"><p>金额类型:</p>
 						<label><input type="radio" name="radio" id="radio1" value="radio1"/> &nbsp;充值金额&nbsp;&nbsp;&nbsp;&nbsp;</label>
 						<label><input type="radio" name="radio" id="radio2" value="radio2" /> &nbsp;消费金额</label>
 					</div>
 					<div class="IF3"><p>发票金额:</p>
 						  <input type="text" name="textfield" id="textfield"  class="IFN1"/>
 						  <span>元</span>
+						  <i style="color:#ccc; font-size: 12px;">
+								<span>*</span> 发票金额不得大于所选金额类型的可开发票的余额
+							</i>
 					</div>
 					<div class="IF3"><p>发送方式：</p>
 						<label><input type="radio" name="radio1" id="radio" value="radio" /> &nbsp;电子档 &nbsp;&nbsp;&nbsp;&nbsp;</label>

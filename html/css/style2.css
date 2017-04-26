@@ -177,10 +177,10 @@ aa#datatable1_filter{	display:none;	}
 .row3_1 ul li span{		display:block;	color:#999999;	line-height:22px;	}
 
 .row3_2 ul{		padding:0 0 49px;	}
-.row3_2 ul li{		width:297px;	width:73.5%;	height:48px;	border:1px solid #1ab394;	margin:30px auto 0;		font-size:14px;	clear:both;	}
+.row3_2 ul li{		width:297px;	width:73.5%;	height:48px;	border:1px solid #1ab394;	margin:30px auto 0;		font-size:14px;	clear:both;border-radius: 6px	}
 .row3_2 ul li p{	float:left;	padding:4px 0 0 16px;	padding-left:20%;	line-height:20px;	}
 .row3_2 ul li b{	font-weight:400;	font-size:13px;	padding-left:2px;	border:none;	color:#1fbba6;	}
-.row3_2 ul li span{	float:right;	width:75px;	height:49px;	line-height:49px;		text-align:center;	}
+.row3_2 ul li span{	float:right;	width:75px;	height:49px;	line-height:49px;		text-align:center;	border-radius: 0 6px 6px 0;}
 .row3_2 ul .li1 span{	background:url(../images/ico_li1.png) no-repeat center center #1ab394;	}
 .row3_2 ul .li2 span{	background:url(../images/ico_li2.png) no-repeat center center #1ab394;	}
 .row3_2 ul .li3 span{	background:url(../images/ico_li3.png) no-repeat center center #1ab394;	}
@@ -216,8 +216,8 @@ aa#datatable1_filter{	display:none;	}
 .sub4{	height:30px;	line-height:30px;	border:0px solid #ccc;	background:#2C9FDD;	padding:0 26px;	text-align:center;	color:#fff;	border-radius:5px;
 	font-size:14px;	margin-left:10px;	float:left;	cursor:pointer;	}
 
-.info_hdorder{	background:#8A929F;	line-height:50px;	color:#f9f9f9;	}
-.info_hdorder strong{	float:left;	height:50px;	padding:0 20px;	text-align:center;	background:#737C8C;	font-size:16px;	font-weight:400;	margin-right:10px;	}
+.info_hdorder{	background:#8A929F;	line-height:50px;	color:#f9f9f9;    border-radius: 6px;}
+.info_hdorder strong{	float:left;	height:50px;	padding:0 20px;	text-align:center;	background:#737C8C;	font-size:16px;	font-weight:400;	margin-right:10px;	border-radius: 6px 0 0 6px;}
 .info_hdorder ul{		}
 .info_hdorder ul li{	float:left;	height:50px;	padding:0 24px;		font-size:14px;	color:#f9f9f9;	}
 .info_hdorder ul li a{	float:left;	height:50px;	line-height:50px;	color:#f9f9f9;	}
@@ -1130,7 +1130,7 @@ body.fold .content{	margin-left:70px;	}
 .sel1{	height:30px;	line-height:30px;	border:1px solid #dcdcdc;	background:#fff;	padding:0 0px 0 10px;	font-size:14px;	text-align:center;	float:left;	color:#666;	}
 .txt5{	width:163px;	height:28px;	line-height:30px;	border:1px solid #DCDCDC;	background:#fff;	padding:0 10px 0 10px;	font-size:14px;
 	margin-left:10px;	float:left;	 acolor:#999;	}
-.sub4_2{	height:30px;	line-height:30px;	border:0px solid #ccc;	background:#ABC4C8;	padding:0 26px;	text-align:center;	color:#fff;	border-radius:5px;
+.sub4_2{	height:30px;	line-height:30px;	border:0px solid #ccc;	background:#73d7cd;	padding:0 26px;	text-align:center;	color:#fff;	border-radius:5px;
 	font-size:14px;	margin-left:10px;	float:left;	cursor:pointer;	}
 .sub4_3{	height:30px;	line-height:30px;	border:0px solid #ccc;	background:#73d7cd;	padding:0 26px;	text-align:center;	color:#fff;	border-radius:5px;
 	font-size:14px;	margin-left:10px;	float:left;	cursor:pointer;	}
