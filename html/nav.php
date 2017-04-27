@@ -33,10 +33,10 @@
 	<a href="S_results.php">头部搜索结果</a>
 	<a href="news_view.php">新闻阅读</a>
 	<a href="news_lsit.php">新闻中心</a>
+	<a href="order_shouli.php">最新受理订单页面</a>
+	<a href="order_view.php" >订单详情</a>
 	
 	<br/>
 	
-	<strong>先放着</strong>
-	<a href="" >订单详情</a>
 
 </div>

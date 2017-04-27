@@ -1152,10 +1152,14 @@ body.fold .content{	margin-left:70px;	}
 .txt_f1{	border:1px solid #E5E5E5;	border-radius:5px;	height:40px;	line-height:40px;	width:28%;	padding:0 1%;	font-size:14px;	color:#2f4050;	color:#999;		}
 .txt_ft1{	width:97%;		height:178px;	border:1px solid #E5E5E5;	line-height:26px;	padding:8px 1%;	font-size:14px;	border-radius:5px;	color:#999;	}
 .sel_f1{	width:22%;	height:40px;	line-height:40px;	font-size:14px;	color:#999999;	border:1px solid #e5e5e5;	padding:0 1%;	border-radius:5px;	color:#999;	
-	padding:8px 1%\9;	height:auto\9;	}
+	padding:8px 1%;	padding:8px 1%\9;	height:auto\9;	}
 .sub_f1{	awidth:180px;	padding:0 40px;	height: 40px;	line-height:40px;	text-align:center;	background: #ff4a50;	color: #fff;	font-size: 20px;	cursor: pointer;	border: none;
 	border-radius: 5px;	margin-left:27%;	}
 .upload_f1{		position: absolute;	left: 0;	top: 0;	padding: 0;	width: 116px;	height: 95px;	margin: 0;	filter:alpha(opacity=0);	opacity:0;		}
+
+.radio_w{	   }
+.radio_w label{	    margin-right: 20px;	}
+.radio_f{	    position: relative;    top: 1px;    margin-right: 4px;	}
 	
 .banner2{	width:93%;	margin:30px auto 0;	border-bottom:2px solid #B5B5B5;	box-shadow:1px 2px 2px #DCDCDC;		}
 table.table_ah tr td{		height:40px;	padding:10px 5px;	}
