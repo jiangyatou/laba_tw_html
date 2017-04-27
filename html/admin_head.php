@@ -1,6 +1,6 @@
 <div class="frame" id="top">
 	<div class="logo">
-		<a href="putong_index.php"><img src="/images/logo.png" alt="亚媒社" /></a>
+		<a href="index.php"><img src="/images/logo.png" alt="亚媒社" /></a>
 	</div>
     <a href="#" class="sidebar-open-button"></a>
     <a href="order_shouli.php" class="new-message"><img src="/images/new-message.png" /><i>2</i></a>
@@ -16,25 +16,25 @@
 			<img src="/images/v.png" />
             <a class="logout">退出</a>
         </div>
-        <div class="sidepanel-open-button"></div>
+        <div class="sidepanel-hede-button"></div>
     </div>
-	<div class="search_top">
+	<!-- <div class="search_top">
 		<form id="form_top" method="post" action="S_results.php">
 			<label class="w_key_ftop"><input type="text" name="key_ftop" class="key_ftop" placeholder="搜索" /></label>
 			<input type="submit" name="submit" class="sub_ftop" value="" />
 		</form>
-	</div>
+	</div> -->
 
 </div>
 <!--右边会员中心入口弹窗-->
-<div class="HYrukou">
+<!-- <div class="HYrukou">
 	<ul>
 		<li><a href="" class="">会员资料</a></li>
 		<li><a href="" class="">账户查询</a></li>
 		<li><a href="" class="">账户充值</a></li>
 		<li><a href="" class="">订单管理</a></li>
 	</ul>
-</div>  
+</div>   -->
 
     <!--右弹购物车-->
     <div role="tabpanel" class="sidepanel" style="display:none;">

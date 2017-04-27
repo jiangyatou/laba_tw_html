@@ -51,17 +51,17 @@
 			</div>
 			<ul class="clearfix">
 				<li class="col-3"><a href=""><img src="/images/ico_yue.png" />账户余额</a></li>
-				<li class="col-3"><a href=""><img src="/images/ico_tixian.png" />申请提现</a></li>
+				<li class="col-3"><a href="tixian.php"><img src="/images/ico_tixian.png" />申请提现</a></li>
 				<li class="col-3"><a href=""><img src="/images/ico_mingxi.png" />收支明细</a></li>
 			</ul>
 		</div>
 		<div class="info_am_r">
 			<ul class="clearfix">
 				<li class="col-3"><div class="circle2"><img src="/images/ico_dingdan.png" /><i>2</i></div>
-					<h4><a href="">我的订单</a></h4>
+					<h4><a href="order_list.php">我的订单</a></h4>
 					<p>21234 条</p></li>
 				<li class="col-3"><div class="circle2"><img src="/images/ico_ziyuan.png" /><i>22</i></div>
-					<h4><a href="">我的购物车</a></h4>
+					<h4><a href="car_list.php">我的购物车</a></h4>
 					<p>21234 条</p></li>
 				<li class="col-3">
 					<div class="circle3">
@@ -70,7 +70,7 @@
 							
 						</div>
 					</div>
-					<h4><a href="">订单统计</a></h4>
+					<h4><a href="order_list.php">订单统计</a></h4>
 					<p>21234 个</p></li>
 			</ul>
 		</div>
@@ -78,14 +78,14 @@
 
 	<!--	图表	-->
 	<div class="tffb radius1 margin_top_40">
-		<h3 class="title1"><strong><a href="#">投放分布</a></strong></h3>
+		<h3 class="title1"><strong><a >投放分布</a></strong></h3>
 		<div class="tffb_m axis" id="tb1">
 		</div>
 	</div>
 	
 	<!--	任务管理	-->
 	<div class="rwgl radius1 margin_top_40 clearfix" style="width:100%;float:none;">
-			<h3 class="title1"><strong><a href="#">任务管理</a></strong><a href="" class="more">more&gt;&gt;</a></h3>
+			<h3 class="title1"><strong><a >任务管理</a></strong><a href="order_list.php" class="more">more&gt;&gt;</a></h3>
 			<div class="rwgl_m">
 
 				<div class="tab1_body">
@@ -110,7 +110,7 @@
 				<td>受理</td>
 				<td>2016-9-12 15:12:00</td>
 				<td class="color1">￥228.00</td>
-				<td><a href="" class="color2">查看</a></td>
+				<td><a href="order_view.php" class="color2">查看</a></td>
 			</tr>
 			<tr>
 				<td>sdf100000815</td>
@@ -119,7 +119,7 @@
 				<td>未受理</td>
 				<td>2016-9-12 15:12:00</td>
 				<td class="color1">￥228.00</td>
-				<td><a href="" class="color2">查看</a></td>
+				<td><a href="order_view.php" class="color2">查看</a></td>
 			</tr>
 			<tr>
 				<td>sdf100000815</td>
@@ -128,7 +128,7 @@
 				<td>受理</td>
 				<td>2016-9-12 15:12:00</td>
 				<td class="color1">￥228.00</td>
-				<td><a href="" class="color2">查看</a></td>
+				<td><a href="order_view.php" class="color2">查看</a></td>
 			</tr>
 			<tr>
 				<td>sdf100000815</td>
@@ -137,7 +137,7 @@
 				<td>未受理</td>
 				<td>2016-9-12 15:12:00</td>
 				<td class="color1">￥228.00</td>
-				<td><a href="" class="color2">查看</a></td>
+				<td><a href="order_view.php" class="color2">查看</a></td>
 			</tr>
 			<tr>
 				<td>sdf100000815</td>
@@ -146,7 +146,7 @@
 				<td>受理</td>
 				<td>2016-9-12 15:12:00</td>
 				<td class="color1">￥228.00</td>
-				<td><a href="" class="color2">查看</a></td>
+				<td><a href="order_view.php" class="color2">查看</a></td>
 			</tr>
 			<tr>
 				<td>sdf100000815</td>
@@ -155,7 +155,7 @@
 				<td>受理</td>
 				<td>2016-9-12 15:12:00</td>
 				<td class="color1">￥228.00</td>
-				<td><a href="" class="color2">查看</a></td>
+				<td><a href="order_view.php" class="color2">查看</a></td>
 			</tr>
 			<tr>
 				<td>sdf100000815</td>
@@ -164,7 +164,7 @@
 				<td>受理</td>
 				<td>2016-9-12 15:12:00</td>
 				<td class="color1">￥228.00</td>
-				<td><a href="" class="color2">查看</a></td>
+				<td><a href="order_view.php" class="color2">查看</a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -176,24 +176,24 @@
 	<!--	新闻中心、盈利状况、联系我们	-->
 	<div class="box_1 clearfix margin_top_40">
 		<div class="row3 row3_1 radius1">
-			<h3 class="title2"><strong><a href="#">新闻中心</a></strong></h3>
+			<h3 class="title2"><strong><a>新闻中心</a></strong><a href="news_lsit.php" class="more">more&gt;&gt;</a></h3>
 			<ul>
-				<li class="clearfix"><a href="" title="你的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
-				<li class="clearfix"><a href="" title="你的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
-				<li class="clearfix"><a href="" title="你的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
-				<li class="clearfix"><a href="" title="你的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
+				<li class="clearfix"><a href="news_view.php" title="你的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
+				<li class="clearfix"><a href="news_view.php" title="你的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
+				<li class="clearfix"><a href="news_view.php" title="你的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
+				<li class="clearfix"><a href="news_view.php" title="你的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
 			</ul>
 			<div class="clr"></div>
 		</div>
 		<div class="row3 row3_2 radius1">
-			<h3 class="title2"><strong><a href="#">会员升级</a></strong></h3>
+			<h3 class="title2"><strong><a >会员升级</a></strong></h3>
 			<div class="m_row3_2">
 				<img src="images/huiyuan_update.png" />
 				<p>会员升级，拥有独立账户管理分销业务，自由选择添加管理分销账户，灵活设置账户信息等等。</p>
 			</div>
 		</div>
 		<div class="row3 row3_3 radius1">
-			<h3 class="title2"><strong><a href="#">联系我们</a></strong></h3>
+			<h3 class="title2"><strong><a >联系我们</a></strong></h3>
 			<div class="row3_3_m">
 				<p>请输入你的电话号码<br/>
 					稍后即可接到我们的来电。</p>

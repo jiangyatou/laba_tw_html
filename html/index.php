@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<?php include("head.php"); ?>
+<?php include("admin_head.php"); ?>
 <?php include("side_l_admin.php"); ?>			<!--	左弹菜单 管理员首页	-->
 
 <div class="content"><div class="Invoice"><div class="INa1dd">
@@ -70,7 +70,7 @@
 
 	<!--	图表	-->
 	<div class="tffb radius1 margin_top_40">
-		<h3 class="title1 "><strong><a href="#">投放分布</a></strong></h3>
+		<h3 class="title1 "><strong><a>投放分布</a></strong></h3>
 		<div class="tffb_m axis" id="tb1">
 		</div>
 	</div>
@@ -78,8 +78,8 @@
 	<div class="clearfix margin_top_40">
 		<!--	最新受理订单	-->
 		<div class="rwgl radius1">
-			<h3 class="title1"><strong><a href="#">最新受理订单</a></strong>
-				<a href="" class="more">more>></a>
+			<h3 class="title1"><strong><a >最新受理订单</a></strong>
+				<a href="order_shouli.php" class="more">more>></a>
 			</h3>
 			<div class="rwgl_m">
 
@@ -197,7 +197,7 @@
 	<!--	新闻中心、盈利状况、联系我们	-->
 	<div class="box_1 clearfix margin_top_40">
 		<div class="row3 row3_1 radius1">
-			<h3 class="title2"><strong><a href="#">新闻中心</a></strong></h3>
+			<h3 class="title2"><strong><a >新闻中心</a></strong><a href="" class="more">more>></a></h3>
 			<ul>
 				<li class="clearfix"><a href="" title="你的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
 				<li class="clearfix"><a href="" title="你的任务已经被某某媒体商确认电视广告精准投放已经实现">你的任务已经被某某媒体商确认电视广告精准投放已经实现</a><span>2016-9-16</span></li>
@@ -207,7 +207,7 @@
 			<div class="clr"></div>
 		</div>
 		<div class="row3 row3_2 radius1">
-			<h3 class="title2"><strong><a href="#">盈利状况</a></strong></h3>
+			<h3 class="title2"><strong><a >盈利状况</a></strong></h3>
 			<ul>
 				<li class="li1">
 					<p>会员总金额<br/>
@@ -224,7 +224,7 @@
 			</ul>
 		</div>
 		<div class="row3 row3_3 radius1">
-			<h3 class="title2"><strong><a href="#">联系我们</a></strong></h3>
+			<h3 class="title2"><strong><a >联系我们</a></strong></h3>
 			<div class="row3_3_m">
 				<p>请输入你的电话号码<br/>
 					稍后即可接到我们的来电。</p>
