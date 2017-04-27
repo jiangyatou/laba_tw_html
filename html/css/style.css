@@ -185,10 +185,10 @@ body{ background:#204186}
 .IF3{ width:100%; height:auto; float:left; margin:10px 0;line-height:32px;font-size:14px;}
 .IF3 p{color:#333;font-size:15px; line-height:32px; float:left; width:100px;text-align: right;padding-right: 20px;}
 .IF3 span{ color:#ff0000; padding-left:10px;}
-.IF3 select{ width:200px;height:33px;line-height:30px;font-size:14px; color:#666;border:1px solid #ccc;padding:0 5px 0 5px;}
-.IFN1{width:200px; height:30px; border:1px solid #ccc; line-height:30px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;}
-.IFN2{width:40%; height:30px; border:1px solid #ccc; line-height:30px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;}
-.IFN3{width:75%; height:120px; border:1px solid #ccc; line-height:30px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;}
+.IF3 select{ width:200px;height:33px;line-height:30px;font-size:14px; color:#666;border:1px solid #ccc;padding:0 5px 0 5px;border-radius: 5px;}
+.IFN1{width:200px; height:30px; border:1px solid #ccc; line-height:30px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;border-radius: 5px;}
+.IFN2{width:40%; height:30px; border:1px solid #ccc; line-height:30px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;border-radius: 5px;}
+.IFN3{width:75%; height:120px; border:1px solid #ccc; line-height:30px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;border-radius: 5px;}
 .IFN4{ float:left; width:73%; border:1px dashed #ccc; padding:15px;}
 .IFN4 span{color:#666;font-size:14px; line-height:30px; float:left; width:100%}
 .IFN5{ width:auto; height:35px; float:left; border:1px solid #ccc;border-radius:5px; background:#f7f8fa;}
@@ -378,7 +378,7 @@ body{ background:#204186}
 .yanzma{ margin:0 15px; float:left; }
 .yanzma a{color:#ccc}
 .Bpass_name{width:250px; height:35px; border:1px solid #ccc; line-height:35px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;}
-.Bpass_{width:100px; height:35px; border:1px solid #ccc; line-height:35px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;}
+.Bpass_{width:100px; height:35px; border:1px solid #ccc; line-height:35px;padding:0 5px 0 5px; font-size:14px; color:#666; float:left;    border-radius: 5px;}
 .Bp_zh{ width:100%; height:auto; float:left; margin:10px 0;line-height:32px;font-size:14px;}
 .Bp_zh p{color:#333;font-size:15px; line-height:32px; float:left; width:85px;text-align: right;padding-right: 20px;}
 .Bp_zh select{ width:200px;height:33px;line-height:30px;font-size:14px; color:#666;border:1px solid #ccc;padding:0 5px 0 5px; float:left;}
