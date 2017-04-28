@@ -14,8 +14,8 @@
 </head>
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
 
-<?php include("head.php"); ?>
-<?php include("side_l_user.php"); ?>			<!--	左弹菜单 普通会员首页	-->
+<?php include("admin_head.php"); ?>
+<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 普通会员首页	-->
 
 
 <div class="content"><div class="Invoice">
@@ -103,7 +103,7 @@
 			<td>http://www.laba.tw</td>
 			<td></td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -118,7 +118,7 @@
 			<td></td>
 			<td>合格</td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -133,7 +133,7 @@
 			<td></td>
 			<td></td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -148,7 +148,7 @@
 			<td>http://www.laba.tw</td>
 			<td>合格</td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -163,7 +163,7 @@
 			<td></td>
 			<td></td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -178,7 +178,7 @@
 			<td></td>
 			<td>合格</td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -193,7 +193,7 @@
 			<td>http://www.laba.tw</td>
 			<td></td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -208,7 +208,7 @@
 			<td></td>
 			<td></td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -223,7 +223,7 @@
 			<td></td>
 			<td></td>
 			<td class="color1">￥0</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 	</tbody>
 </table>

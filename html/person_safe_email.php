@@ -22,15 +22,15 @@
 
 	<div class="s1_tab">
 		<ul class="clearfix">
-			<li><a href="">订单管理</a></li>
+			<li><a href="order_list.php">订单管理</a></li>
 			<li><a href="">账户查询</a></li>
-			<li><a href="">账户充值</a></li>
-			<li class="cur"><a href="">用户信息</a></li>
+			<li><a href="chongzhi.php">账户充值</a></li>
+			<li class="cur"><a href="person_edit.php">用户信息</a></li>
 		</ul>
 	</div>
 
 	<div class="place">
-		当前位置：<a href="">首页</a> > 安全设置
+		当前位置：<a href="putong_index.php">首页</a> > <a href="person_edit.php">用户信息</a> > <a href="person_safe.php">安全设置</a>
 	</div>
 	
 	<div class="main_s">

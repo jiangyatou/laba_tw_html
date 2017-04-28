@@ -22,10 +22,10 @@
 
 	<div class="s1_tab">
 		<ul class="clearfix">
-			<li><a href="">订单管理</a></li>
+			<li><a href="order_list.php">订单管理</a></li>
 			<li><a href="">账户查询</a></li>
-			<li><a href="">账户充值</a></li>
-			<li class="cur"><a href="">用户信息</a></li>
+			<li><a href="chongzhi.php">账户充值</a></li>
+			<li class="cur"><a href="person_edit.php">用户信息</a></li>
 		</ul>
 	</div>
 
@@ -60,7 +60,7 @@
 									<i class="ok">已设置</i>
 								</span>
 								<span class="sp4">
-									<a href="">修改</a>
+									<a href="person_safe_changepass.php">修改</a>
 								</span>
 							</li>
 							<li><span class="sp1">绑定手机</span>
@@ -69,7 +69,7 @@
 									<i class="ok">已绑定</i>
 								</span>
 								<span class="sp4">
-									<a href="">查看</a>
+									<a href="person_safe_phone.php">查看</a>
 								</span>
 							</li>
 							<li><span class="sp1">绑定邮箱</span>
@@ -78,7 +78,7 @@
 									<i class="not-ok">未绑定</i>
 								</span>
 								<span class="sp4">
-									<a href="">修改</a>
+									<a href="person_safe_email.php">修改</a>
 								</span>
 							</li>
 							<li><span class="sp1">密保问题</span>
@@ -87,7 +87,7 @@
 									<i class="ok">已设置</i>
 								</span>
 								<span class="sp4">
-									<a href="">修改</a>
+									<a href="person_safe_question.php">修改</a>
 								</span>
 							</li>
 							<li><span class="sp1">证件信息</span>
@@ -96,7 +96,7 @@
 									<i class="not-ok">未设置</i>
 								</span>
 								<span class="sp4">
-									<a href="">修改</a>
+									<a href="person_safe_zhengjianinfo.php">修改</a>
 								</span>
 							</li>
 						</ul>

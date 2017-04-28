@@ -22,10 +22,10 @@
 
 	<div class="s1_tab">
 		<ul class="clearfix">
-			<li><a href="">订单管理</a></li>
+			<li><a href="order_list.php">订单管理</a></li>
 			<li><a href="">账户查询</a></li>
-			<li><a href="">账户充值</a></li>
-			<li class="cur"><a href="">用户信息</a></li>
+			<li><a href="chongzhi.php">账户充值</a></li>
+			<li class="cur"><a href="person_edit.php">用户信息</a></li>
 		</ul>
 	</div>
 

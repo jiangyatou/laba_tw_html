@@ -14,8 +14,8 @@
 </head>
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
 
-<?php include("head.php"); ?>
-<?php include("side_l_user.php"); ?>			<!--	左弹菜单 普通会员首页	-->
+<?php include("admin_head.php"); ?>
+<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 普通会员首页	-->
 
 
 <div class="content"><div class="Invoice">
@@ -43,7 +43,7 @@
 						<input type="submit" name="submit" class="sub4_3" id="searchnews" value="查询" />
 					</div>
 					<div class="l">
-						<a class="sub4_2" href="#">订单申诉</a>
+						<a class="sub4_2" href="#">导出明细</a>
 					</div>
 				</div>
 <!--

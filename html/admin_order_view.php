@@ -14,8 +14,8 @@
 </head>
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
 
-<?php include("head.php"); ?>
-<?php include("side_l_user.php"); ?>			<!--	左弹菜单 普通会员首页	-->
+<?php include("admin_head.php"); ?>
+<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 普通会员首页	-->
 
 
 <div class="content"><div class="Invoice">

@@ -54,7 +54,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -63,7 +63,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -72,7 +72,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -81,7 +81,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -90,7 +90,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -99,7 +99,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -108,7 +108,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -117,7 +117,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -126,7 +126,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1sdf100000815</td>
@@ -135,7 +135,7 @@
 			<td>受理</td>
 			<td>2016-10-12 15:12:00</td>
 			<td class="color1">￥228.00</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="order_view.php">查看</a></td>
 		</tr>
 	</tbody>
 </table>

@@ -39,8 +39,8 @@
 				</div>
 			</div>
 			<div class="w_success_m">
-				<p>如果您有平台其他账户金额信息，<a href="">查看付款定单</a></p>
-				<p>您可能需要：<a href="">查看余额</a>|<a href="">消费记录</a>|<a href="">我要充值</a>|<a href="">申请发票</a></p>
+				<p>如果您有平台其他账户金额信息，<a href="car_list.php">查看付款定单</a></p>
+				<p>您可能需要：<a href="">查看余额</a>|<a href="">消费记录</a>|<a href="chongzhi.php">我要充值</a>|<a href="fapiao.php">申请发票</a></p>
 			</div>
 		</div>
 

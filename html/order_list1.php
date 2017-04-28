@@ -22,10 +22,10 @@
 
 	<div class="s1_tab">
 		<ul class="clearfix">
-			<li class="cur"><a href="">订单管理</a></li>
+			<li class="cur"><a href="order_list.php">订单管理</a></li>
 			<li><a href="">账户查询</a></li>
-			<li><a href="">账户充值</a></li>
-			<li><a href="">用户信息</a></li>
+			<li><a href="chongzhi.php">账户充值</a></li>
+			<li><a href="person_edit.php">用户信息</a></li>
 		</ul>
 	</div>
 
@@ -56,7 +56,7 @@
 					</div>
 					<div class="l">
 						<input type="text" name="keyword" id="keyword" class="txt5" placeholder="订单号" />
-						<input type="submit" name="submit" class="sub4_2" id="searchnews" value="查询" />
+						<input type="submit" name="submit" class="sub4_3" id="searchnews" value="查询" />
 					</div>
 				</div>
 <!--
@@ -68,13 +68,13 @@
 		<div class="dhorder_m">
 			<div class="tab1">
 				<ul>
-					<li><a href="">全部订单</a></li>
+					<li><a href="order_list.php">全部订单</a></li>
 					<li><a href="">预约状态</a></li>
 					<li><a href="">已完成</a></li>
 					<li><a href="">正执行</a></li>
 					<li><a href="">已流单</a></li>
 					<li><a href="">已拒单</a></li>
-					<li class="cur"><a href="">申诉订单</a></li>
+					<li class="cur"><a href="order_list1.php">申诉订单</a></li>
 					<li><a href="">退还</a></li>
 				</ul>
 				<a class="btn_o" href="">订单申诉</a>

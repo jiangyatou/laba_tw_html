@@ -8,7 +8,7 @@
 		<li><div class="header inactive">
                 <span class="label" id="sd_1">任务管理</span></div>
 			<ul class="menu">
-				<li><a href=""><div class="sd_1_1">网络媒体订单列表</div></a></li>
+				<li><a href="admin_order_list.php"><div class="sd_1_1">网络媒体订单列表</div></a></li>
 				<li><a href=""><div class="sd_1_2">户外媒体订单列表</div></a></li>
 				<li><a href=""><div class="sd_1_3">平面媒体订单列表</div></a></li>
 				<li><a href=""><div class="sd_1_4">电视媒体订单列表</div></a></li>
@@ -22,7 +22,7 @@
                 <span class="label" id="sd_2">帐户信息</span></div>
 			<ul class="menu">
 				<li><a href=""><div class="sd_2_1">申请发票列表</div></a></li>
-				<li><a href=""><div class="sd_2_2">提现列表</div></a></li>
+				<li><a href="tixian_list.php"><div class="sd_2_2">提现列表</div></a></li>
 				<!-- <li><a href=""><div class="sd_2_3">电视媒体订单列表</div></a></li>
 				<li><a href=""><div class="sd_2_4">电视媒体订单列表</div></a></li>
 				<li><a href=""><div class="sd_2_5">电视媒体订单列表</div></a></li> -->

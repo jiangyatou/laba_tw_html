@@ -14,8 +14,8 @@
 </head>
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
 
-<?php include("head.php"); ?>
-<?php include("side_l_user.php"); ?>			<!--	左弹菜单 普通会员首页	-->
+<?php include("admin_head.php"); ?>
+<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 普通会员首页	-->
 
 
 <div class="content"><div class="Invoice">
@@ -40,14 +40,14 @@
 					</div>
 					<div class="l">
 						<select name="" class="sel1" id="mediatype">
-							<option value="网络媒体">网络媒体</option>
-							<option value="电视媒体">电视媒体</option>
+							<option value="新闻约稿">新闻约稿</option>
+							<option value="1">1</option>
 							<option value="1">1</option>
 						</select>
 					</div>
 					<div class="l">
 						<input type="text" name="keyword" id="keyword" class="txt5" placeholder="订单号" />
-						<input type="submit" name="submit" class="sub4_2" id="searchnews" value="查询" />
+						<input type="submit" name="submit" class="sub4_3" id="searchnews" value="查询" />
 					</div>
 				</div>
 <!--
@@ -93,7 +93,7 @@
 			<td>申诉标题1</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -103,7 +103,7 @@
 			<td>申诉标题2</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -113,7 +113,7 @@
 			<td>申诉标题3</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -123,7 +123,7 @@
 			<td>申诉标题4</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -133,7 +133,7 @@
 			<td>申诉标题5</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -143,7 +143,7 @@
 			<td>申诉标题6</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -153,7 +153,7 @@
 			<td>申诉标题7</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -163,7 +163,7 @@
 			<td>申诉标题8</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>248d4965666</td>
@@ -173,7 +173,7 @@
 			<td>申诉标题9</td>
 			<td>2017-4-20 15：21 00</td>
 			<td>未处理</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_order_shensu.php">查看</a></td>
 		</tr>
 	</tbody>
 </table>

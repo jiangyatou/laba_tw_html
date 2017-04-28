@@ -33,6 +33,7 @@
 		<li><a href="" class="">账户查询</a></li>
 		<li><a href="" class="">账户充值</a></li>
 		<li><a href="" class="">订单管理</a></li>
+		<li><a href="" class="">安全设置</a></li>
 	</ul>
 </div>  
 
