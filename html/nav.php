@@ -7,9 +7,6 @@
 </style>
 
 <div class="clr" id="f_nav">
-	<strong>管理员</strong>
-	<a href="index.php">管理员首页</a>
-	<br/>
 	
 	<strong>普通会员</strong>
 	<a href="putong_index.php">普通会员首页</a>
@@ -38,5 +35,15 @@
 	
 	<br/>
 	
+	<strong>管理员</strong>
+	<a href="index.php">管理员首页</a>
+	<a href="admin_order_list1.php">任—订单管理 - 申诉订单列表</a>
+	<a href="admin_order_shensu.php">任—订单管理 - 申诉订单详情</a>
+	<a href="admin_order_list.php">任—订单管理</a>
+	<a href="admin_order_view.php">任—订单详情</a>
+	<a href="admin_huser_list.php">用—高级会员列表</a>
+	
+	
+	<br/>
 
 </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>订单申诉 - 亚媒社</title>
+	<title>任—订单管理 - 申诉订单详情 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -32,6 +32,12 @@
 		
 			<form action="" method="post">
 				<div class="item_f"><p><i class="LGntas"></i>订单号：</p>
+					<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style=""></div>
+				</div>
+				<div class="item_f"><p><i class="LGntas"></i>所属用户：</p>
+					<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style=""></div>
+				</div>
+				<div class="item_f"><p><i class="LGntas"></i>所属媒体：</p>
 					<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style=""></div>
 				</div>
 				<div class="item_f"><p><i class="LGntas"></i>活动类型：</p>
