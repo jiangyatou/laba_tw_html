@@ -11,6 +11,7 @@ body .distable{		display:table;	+display:block;	}
 .color1{	color:#ff0000;	}
 .color2{	color:#1ab394;	}
 .margin_top_40{	margin-top:40px!important;	margin-top:40px;	}
+.ml10{	margin-left:10px;	}
 .l{	float:left;	}
 .r{	float:right;	}
 .clr{	clear:both;	}
@@ -18,6 +19,8 @@ body .distable{		display:table;	+display:block;	}
 .clearfix {   zoom:1;	}
 .hide{	display:none;	}
 .radius1{	border-radius:8px;	}
+
+.minh{	min-height:100px;	background:#ace;	}
 
 .col-2{	width:50%;	}
 .col-3{	width:33%;	}
@@ -1153,7 +1156,7 @@ a.sub4_2:hover{	color:#fff;	}
 .title5 strong{		font-weight:400;	height:69px;	line-height:74px;	overflow:hidden;	float:left;		color:#2f4050;	text-decoration:none;	font-size:24px;	padding-left:30px;	}
 
 .wrap_f{	width:67%;	margin:0 auto;	padding:45px 0 0;	}
-.item_f{	width:100%;	aheight:40px;	line-height:40px;	margin:8px 0;	float:left;	}
+.item_f{	width:100%;	aheight:40px;	line-height:40px;	margin:8px 0;	float:left;	font-size:14px;	}
 .item_f p{	width:120px;	text-align:right;	margin-right:12px;	float:left;	color:#2f4050;	font-size:14px;	}
 .LGntas{	position:relative;	top:2px;	padding-right:8px;	color:#f00;	}
 .item_f .r{	display:block;	float:none;		margin-left:132px;	}
@@ -1221,10 +1224,21 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 
 .table_in1 td.media-pic img{	width:auto;	height:42px;	max-width:100%;	overflow:hidden;	margin:0px 10px 0 0;	}
 
+.wrap_fr3{		}
+.wrap_fr3 h3{	font-size:24px;	color:#2f4050;	text-align:center;	font-weight:400;	padding-bottom:35px;	}
+.row3_22{	width:38%;	}
+.row3_22 ul{		padding:0 0 0px;	}
+.row3_22 ul li{		width:297px;	width:99%;	height:48px;	border:1px solid #1ab394;	margin:0px 0 30px;		font-size:14px;	clear:both;	border-radius: 6px	}
+.row3_22 ul li p{	float:left;	padding:4px 0 0 16px;	padding-left:20%;	line-height:20px;	}
+.row3_22 ul li b{	font-weight:400;	font-size:13px;	padding-left:2px;	border:none;	color:#1fbba6;	}
+.row3_22 ul li span{	float:right;	width:75px;	height:49px;	line-height:49px;		text-align:center;	border-radius: 0 6px 6px 0;}
+.row3_22 ul .li1 span{	background:url(../images/ico_li1.png) no-repeat center center #1ab394;	}
+.row3_22 ul .li2 span{	background:url(../images/ico_li2.png) no-repeat center center #1ab394;	}
+.row3_22 ul .li3 span{	background:url(../images/ico_li3.png) no-repeat center center #1ab394;	}
+.wrap_fr3 .r{	width:50%;	margin-top:0px;	}
 
-
-
-
+#tb_hv1{	margin:0px auto;	padding:0 0 0px;	width:100%;	height:330px;	}
+#tb_hv2{	margin:0px auto;	padding:0 0 0px;	width:55%;	height:220px;	}
 
 
 

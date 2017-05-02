@@ -42,6 +42,8 @@
 	<a href="admin_order_list.php">任—订单管理</a>
 	<a href="admin_order_view.php">任—订单详情</a>
 	<a href="admin_huser_list.php">用—高级会员列表</a>
+	<a href="admin_huser_view.php">用—高级会员详情</a>
+	<a href="admin_supplier_list.php">用—供应商列表</a>
 	
 	
 	<br/>
