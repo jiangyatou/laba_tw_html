@@ -1116,7 +1116,7 @@ body.fold .content{	margin-left:70px;	}
 .place{	font-size:14px;	color:#666;		width:93%;	margin:20px auto 0;	line-height:30px;	}
 
 /*	安全设置	*/
-.main_s{	background:#fff;	padding:30px 1.7% 120px;	width:93%;	width:89.6%;	margin:6px auto 45px;	border-radius:12px;	box-shadow:2px 2px 1px #ddd;	}	
+.main_s{	background:#fff;	padding:30px 0.8% 120px;	width:93%;	width:91.2%;	margin:6px auto 45px;	border-radius:12px;	box-shadow:2px 2px 1px #ddd;	}	
 .title3{	font-size:20px;	color:#1ab394;	font-weight:400;	height:32px;	line-height:32px;	}
 .title3 a{		}
 .title3 strong{	font-weight:400;	float:left;	padding:0 10px;	background:#fff;	position:relative;	z-index:10;	}
