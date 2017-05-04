@@ -81,7 +81,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -93,7 +93,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -105,7 +105,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -117,7 +117,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -129,7 +129,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -141,7 +141,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -153,7 +153,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -165,7 +165,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -177,7 +177,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -189,7 +189,7 @@
 			<td>启用</td>
 			<td>210</td>
 			<td class="color1">￥210</td>
-			<td><a class="color2" href="">查看</a></td>
+			<td><a class="color2" href="admin_huser_view.php">查看</a></td>
 		</tr>
 	</tbody>
 </table>
