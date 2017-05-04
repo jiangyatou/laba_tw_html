@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>用—高级会员详情 - 亚媒社</title>
+	<title>用—会员详情 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -88,17 +88,13 @@
 					<h3 style="color:#1ab394;margin-top:60px;">账户盈利状况</h3>
 					<div class="clearfix">
 						<div class="l row3_22">
-							<ul>
+							<ul style="padding-top:18px;">
 								<li class="li1">
 									<p>帐户总金额<br/>
 										<b>￥2100.00</b></p>
 									<span></span></li>
 								<li class="li2">
-									<p>平台纯收益<br/>
-										<b>￥1100.00</b></p>
-									<span></span></li>
-								<li class="li3">
-									<p>所属会员总金额<br/>
+									<p>消费总金额<br/>
 										<b>￥1100.00</b></p>
 									<span></span></li>
 							</ul>
@@ -147,12 +143,6 @@
 						</select>
 					</div>
 					<div class="l">
-						<select name="" class="sel1 ml10" id="">
-							<option value="">订单号</option>
-							<option value="">所属会员</option>
-						</select>
-					</div>
-					<div class="l">
 						<input type="text" name="keyword" id="keyword" class="txt5" placeholder="订单号" />
 						<input type="submit" name="submit" class="sub4_3" id="searchnews" value="查询" />
 					</div>
@@ -175,9 +165,7 @@
 			<th>订单类型</th>
 			<th>开始时间</th>
 			<th>结束时间</th>
-			<th>会员价</th>
-			<th>平台价</th>
-			<th>所属会员</th>
+			<th>平台价格</th>
 			<th>订单状态</th>
 			<th>完成链接/截图</th>
 		</tr>
@@ -190,8 +178,6 @@
 			<td>2017-4-20</td>
 			<td>2017-4-20</td>
 			<td class="color1">￥210</td>
-			<td class="color1">￥250</td>
-			<td>13711174990</td>
 			<td>完成</td>
 			<td><a href="">http://www.yameishe.com</a></td>
 		</tr>
@@ -202,10 +188,8 @@
 			<td>2017-4-20</td>
 			<td>2017-4-20</td>
 			<td class="color1">￥210</td>
-			<td class="color1">￥250</td>
-			<td>13711174990</td>
-			<td>未完成</td>
-			<td></td>
+			<td>完成</td>
+			<td><a href="">http://www.yameishe.com</a></td>
 		</tr>
 		<tr>
 			<td>15425HJK25545</td>
@@ -214,10 +198,8 @@
 			<td>2017-4-20</td>
 			<td>2017-4-20</td>
 			<td class="color1">￥210</td>
-			<td class="color1">￥250</td>
-			<td>13711174990</td>
 			<td>完成</td>
-			<td></td>
+			<td><a href="">http://www.yameishe.com</a></td>
 		</tr>
 		<tr>
 			<td>15425HJK25545</td>
@@ -226,10 +208,8 @@
 			<td>2017-4-20</td>
 			<td>2017-4-20</td>
 			<td class="color1">￥210</td>
-			<td class="color1">￥250</td>
-			<td>13711174990</td>
 			<td>完成</td>
-			<td></td>
+			<td><a href="">http://www.yameishe.com</a></td>
 		</tr>
 		<tr>
 			<td>15425HJK25545</td>
@@ -238,10 +218,8 @@
 			<td>2017-4-20</td>
 			<td>2017-4-20</td>
 			<td class="color1">￥210</td>
-			<td class="color1">￥250</td>
-			<td>13711174990</td>
 			<td>完成</td>
-			<td></td>
+			<td><a href="">http://www.yameishe.com</a></td>
 		</tr>
 		<tr>
 			<td>15425HJK25545</td>
@@ -250,10 +228,28 @@
 			<td>2017-4-20</td>
 			<td>2017-4-20</td>
 			<td class="color1">￥210</td>
-			<td class="color1">￥250</td>
-			<td>13711174990</td>
 			<td>完成</td>
-			<td></td>
+			<td><a href="">http://www.yameishe.com</a></td>
+		</tr>
+		<tr>
+			<td>15425HJK25545</td>
+			<td>互联网新闻编写</td>
+			<td>新闻发布</td>
+			<td>2017-4-20</td>
+			<td>2017-4-20</td>
+			<td class="color1">￥210</td>
+			<td>完成</td>
+			<td><a href="">http://www.yameishe.com</a></td>
+		</tr>
+		<tr>
+			<td>15425HJK25545</td>
+			<td>互联网新闻编写</td>
+			<td>新闻发布</td>
+			<td>2017-4-20</td>
+			<td>2017-4-20</td>
+			<td class="color1">￥210</td>
+			<td>完成</td>
+			<td><a href="">http://www.yameishe.com</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -339,7 +335,7 @@
                 $.ajax({
                     type:"post",
 //					url:"/Admin/searchnewspage",
-					url:"data_admin_huser_view.php",
+					url:"data_admin_user_view.php",
 					dataType: 'html',
                     data:{
 						'start':$("#datepicker1").val(),

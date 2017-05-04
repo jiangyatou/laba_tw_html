@@ -44,6 +44,9 @@
 	<a href="admin_huser_list.php">用—高级会员列表</a>
 	<a href="admin_huser_view.php">用—高级会员详情</a>
 	<a href="admin_supplier_list.php">用—供应商列表</a>
+	<a href="admin_supplier_view.php">用—供应商详情</a>
+	<a href="admin_user_list.php">用—会员列表</a>
+	<a href="admin_user_view.php">用—会员详情 </a>
 	
 	
 	<br/>
