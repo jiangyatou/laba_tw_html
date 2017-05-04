@@ -10,6 +10,7 @@ body{ background:#204186}
 .title2 .more{	float:right;	padding:30px 30px 10px 10px;	font-size:20px;	color:#cccccc;		}
 .title2 .more:hover{	color:#1ab394;	}
 .sidepanel-hede-button{		width:25px;	height:22px;	float:right;	margin:20px 22px 0 0;background:url(../img/menu3.png) no-repeat;	}
+#tb_aq1{	margin:0px auto;	padding:0 0 0px;	width:240px;	height:220px; float: left; }
 
 
 /*版权*/

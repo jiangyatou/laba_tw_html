@@ -23,7 +23,7 @@
 	<div class="s1_tab">
 		<ul class="clearfix">
 			<li class="cur"><a href="order_list.php">订单管理</a></li>
-			<li><a href="">账户查询</a></li>
+			<li><a href="account_query.php">账户查询</a></li>
 			<li><a href="chongzhi.php">账户充值</a></li>
 			<li><a href="person_edit.php">用户信息</a></li>
 		</ul>
