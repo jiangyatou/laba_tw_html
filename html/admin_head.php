@@ -4,6 +4,7 @@
 	</div>
     <a href="#" class="sidebar-open-button"></a>
     <a href="order_shouli.php" class="new-message"><img src="/images/new-message.png" /><i>2</i></a>
+    <a href="" class="new-message"><img src="/images/new-phone.png" /><i>2</i></a>
 	<ul class="ul_top">
 		<li><a href="help.php">帮助中心</a></li>
 	</ul>
