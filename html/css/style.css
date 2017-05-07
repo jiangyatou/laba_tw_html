@@ -30,9 +30,7 @@ body{ background:#204186}
 .account_5 p{ font-size: 26px; line-height: 110px; }
 .account_5 p span{ color: #ff0000 }
 .detail{ width: 100%; height: auto; border-top: 10px solid #f3f3f4;float: left; padding-top: 15px; }
-
-
-
+.main_aq{	background:#fff;	padding:30px 0.8% 10px;	width:93%;	width:91.2%;	margin:6px auto 20px;	border-radius:12px;	box-shadow:2px 2px 1px #ddd;	}	
 
 
 

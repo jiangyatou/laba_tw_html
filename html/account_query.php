@@ -33,7 +33,7 @@
 		当前位置：<a href="">首页</a> > 账户查询
 	</div>
 	
-	<div class="main_s">
+	<div class="main_aq">
 		<h3 class="title3"><strong>账户详情</strong>
 			<a href=""><img class="title3_img" src="/images/arr_s.png" alt="" /></a>
 			<span class="title3_i"></span>
@@ -57,16 +57,159 @@
 			</div>
 			<!--	柱状图	-->
 			<div class="r minh" id="tb_aq2"></div>
-		</div>
-		<!--订单明细-->
-		<div class="detail">
-			<h3 class="title3"><strong>账户详情</strong>
-				<a href=""><img class="title3_img" src="/images/arr_s.png" alt="" /></a>
-				<span class="title3_i"></span>
-			</h3>
+		</div>		
+	</div>
+
+
+	<div class="main_o clearfix">
+		<h3 class="title3" style="padding:20px 30px 0 20px;"><strong>订单明细</strong>
+			<a href=""><img class="title3_img" src="/images/arr_s.png" alt=""></a>
+			<span class="title3_i"></span>
+		</h3>
+		<div class="dhorder_m">
+			<div class="tab1">
+				<ul>       
+					<li class="cur"><a href="#">全部</a></li>
+					<li><a href="#">提现</a></li>
+					<li><a href="#">充值</a></li>
+					<li><a href="#">消费</a></li>
+				</ul>
+				<div class="search_2">
+					<form action="" method="" name="">
+						<div class="l">
+							<span>起止时间</span>
+						</div>
+
+						<div class="l">
+							<input type="text" class="txt2" id="datepicker1" />-<input type="text" class="txt2" id="datepicker2" />
+						</div>
+						<div class="l">
+							<select name="" class="sel1" id="mediatype">
+								<option value="网络媒体">网络媒体</option>
+								<option value="电视媒体">电视媒体</option>
+								<option value="1">1</option>
+							</select>
+						</div>
+						<div class="l">
+							<input type="text" name="keyword" id="keyword" class="txt5" placeholder="订单号" />
+							<input type="submit" name="submit" class="sub4_3" id="searchnews" value="查询" />
+						</div>
+					</form>
+				</div>
+				<a href="" class="sub4_2" style="float:right; margin:15px 30px 0 0;">导出财务明细</a>
+			</div>
+			<div class="tab1_body" style="">
+				<table class="table_in1 cur"  id="datatable1">
+				<thead>
+					<tr>
+						<th>日期</th>
+						<th>订单号</th>
+						<th>订单类型</th>
+						<th>订单名称</th>
+						<th>订单状态</th>
+						<th>截图/链接</th>
+						<th>金额</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<!--<td colspan="9">
+							<div class="nodata">
+								<img src="/images/nodata.png" />
+								<p>您目前暂无明细信息</p>
+							</div>
+						</td>-->
+						<td>2016.8.18</td>
+						<td>24r34f66</td>
+						<td>新闻任务</td>
+						<td>秒分必争创业</td>
+						<td>完成</td>
+						<td><a href="" target="_blank"><img class="link" src="/images/ico_link.png" alt="链接/截图" /></a></td>
+						<td><span class="color_red2">80元</span></td>
+					</tr>
+				</tbody>
+				</table>
+				<table class="table_in1" >
+				<thead>
+					<tr>
+						<th>日期</th>
+						<th>订单号</th>
+						<th>消费方式</th>
+						<th>消费账号</th>
+						<th>状态</th>
+						<th>金额</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>2016.8.18</td>
+						<td>24r34f66</td>
+						<td>支付宝</td>
+						<td>12245687565454</td>
+						<td>完成</td>
+						<td><span class="color_red2">80元</span></td>
+					</tr>
+				</tbody>
+				</table>
+				<table class="table_in1" >
+				<thead>
+					<tr>
+						<th>日期</th>
+						<th>订单号</th>
+						<th>消费方式</th>
+						<th>消费账号</th>
+						<th>状态</th>
+						<th>金额</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>2016.8.18</td>
+						<td>24r34f66</td>
+						<td>支付宝</td>
+						<td>12245687565454</td>
+						<td>完成</td>
+						<td><span class="color_red2">80元</span></td>
+					</tr>
+				</tbody>
+				</table>
+				<table class="table_in1"  >
+				<thead>
+					<tr>
+						<th>日期</th>
+						<th>订单号</th>
+						<th>订单类型</th>
+						<th>订单名称</th>
+						<th>订单状态</th>
+						<th>截图/链接</th>
+						<th>金额</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>2016.8.18</td>
+						<td>24r34f66</td>
+						<td>新闻任务</td>
+						<td>秒分必争创业</td>
+						<td>完成</td>
+						<td><a href="" target="_blank"><img class="link" src="/images/ico_link.png" alt="链接/截图" /></a></td>
+						<td><span class="color_red2">80元</span></td>
+					</tr>
+					<tr>
+						<td>2016.8.18</td>
+						<td>24r34f66</td>
+						<td>新闻任务</td>
+						<td>秒分必争创业</td>
+						<td>完成</td>
+						<td><a href="" target="_blank"><img class="link" src="/images/ico_link.png" alt="链接/截图" /></a></td>
+						<td><span class="color_red2">80元</span></td>
+					</tr>
+				</tbody>
+				</table>
+			</div>
 		</div>
 	</div>
-	
+
 
 
 </div></div>
@@ -176,7 +319,6 @@ if( $('#tb_aq2').length > 0 ){
 }
 	
 </script>
-
 
 </body>
 </html>
