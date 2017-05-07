@@ -1150,7 +1150,7 @@ a.sub4_2:hover{	color:#fff;	}
 .btn_o:hover{	color:#000;	}
 
 .btn2_o{	height:32px;	line-height:32px;	border:0px solid #ccc;	background:#abc5c6;	padding:0 25px;	text-align:center;	color:#fff;	border-radius:5px;
-	font-size:14px;	margin:22px 15px 8px 0;	float:left;	cursor:pointer;	float:right;	}
+	font-size:14px;	margin:21px 15px 8px 0;	float:left;	cursor:pointer;	float:right;	}
 .btn2_o:hover{	color:#fff;	}
 
 
@@ -1198,6 +1198,10 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .info1_f{	font-size:12px;	color:#999;	line-height:20px;	float:left;		padding:6px 0;	font-style:italic;	}
 .info1_f i{	color:#f00;	font-size:14px;		float:left;	margin-right:6px;	padding-top:3px;	font-style:normal;	}
 .valign_m{	display:table-cell;	vertical-align:middle;	float:none;	}
+
+.info2_f{	font-size:12px;	color:#999;	line-height:20px;	float:left;		padding:6px 0;	font-style:italic;	
+	display:inline-block;	float:none;	aheight:95px;	padding:0 0 0 6px;	}
+.info2_f i{	color:#f00;	font-size:14px;		float:left;	margin-right:6px;	padding-top:3px;	font-style:normal;	}
 
 .wrap_fr{	float:right;	width:35%;	margin-right:4%;	}
 .wrap_fr1{	padding-top:90px;	width:85%;	margin-left:10%;	color:#999999;		}
@@ -1278,9 +1282,18 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .sbox_1_w2 .sbox_1_item .m ul li a.cur i.del{	background:url(/images/del1.png) no-repeat center center;	}
 */
 
-
-
-
+/*	媒体筛选分类管理	*/
+.list_cm{	padding-top:1px;	margin:0 1px;	}
+.h_list_cm{	font-size:14px;	font-weight:400;	color:#000000;	height:40px;	line-height:40px;	background:#f2f2f2;	padding:0 25px;	}
+.h_list_cm strong{	font-weight:400;	}
+.m_list_cm{	font-size:14px;	color:#666666;	padding:8px 25px 15px;		}
+	.item_list_cm{			line-height:28px;	padding:4px 0;	}
+	.item_list_cm .sp1{		float:left;		padding:0 0px;	}
+	.item_list_cm ul{		afloat:left;	display:block;	margin-left:75px;			}
+	.item_list_cm ul li{	float:left;		padding:0 8px;	margin-bottom:5px;	}
+	.item_list_cm ul li a{		}
+	.item_list_cm .sp2{		float:left;		padding:0 8px;	margin-left:75px;	}
+	.txt_cm{	border:1px solid #E5E5E5;	border-radius:5px;	height:26px;	line-height:26px;	width:94px;	padding:0 10px;	font-size:14px;	acolor:#cfcdcd;	}
 
 
 

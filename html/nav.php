@@ -47,6 +47,11 @@
 	<a href="admin_supplier_view.php">用—供应商详情</a>
 	<a href="admin_user_list.php">用—会员列表</a>
 	<a href="admin_user_view.php">用—会员详情 </a>
+	<a href="admin_filter_class.php">用—筛选分类管理</a>
+	<a href="admin_shenqingfapiao_list.php">帐—申请发票列表</a>
+	<a href="admin_shenqingfapiao_view.php">帐—申请发票详情</a>
+	<a href="admin_tixian_list.php">帐—提现列表</a>
+	<a href="admin_tixian_view.php">帐—提现详情</a>
 	
 	
 	<br/>
