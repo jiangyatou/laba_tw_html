@@ -53,6 +53,10 @@
 	<a href="admin_tixian_list.php">帐—提现列表</a>
 	<a href="admin_tixian_view.php">帐—提现详情</a>
 	
+	<br/>
+	<br/>
+	<a href="test.php">左侧和底部背景修改</a>
+	
 	
 	<br/>
 

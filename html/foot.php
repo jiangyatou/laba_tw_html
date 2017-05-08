@@ -77,5 +77,14 @@ $(function(){
 		return false;
 	});
 
+	
+	
+	var winh = $(window).height(),
+		minh = winh - 63 - 50,
+		Invh = $(".Invoice").height();
+	if( Invh < minh ){
+		$(".Invoice").height(minh);
+	}	
+	
 })
 </script>
