@@ -54,8 +54,13 @@
 	<a href="admin_tixian_view.php">帐—提现详情</a>
 	
 	<br/>
-	<br/>
-	<a href="test.php">左侧和底部背景修改</a>
+	<strong>高级会员</strong>
+	<a href="huser_index.php">高级会员首页</a>
+	<a href="huser_account_query.php">帐户查询</a>
+	<a href="huser_huiyuan_add.php">新增会员</a>
+	<a href="huser_order_view.php">订单详情</a>
+	<a href="huser_order_list.php">订单管理</a>
+
 	
 	
 	<br/>

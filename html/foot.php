@@ -82,7 +82,8 @@ $(function(){
 	var winh = $(window).height(),
 		minh = winh - 63 - 50,
 		Invh = $(".Invoice").height();
-	$(".Invoice").css("min-height",minh);
+//	$(".Invoice").css("min-height",minh);
+	$(".sidebar").css("min-height",minh);
 	
 })
 </script>
