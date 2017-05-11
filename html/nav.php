@@ -52,6 +52,11 @@
 	<a href="admin_shenqingfapiao_view.php">帐—申请发票详情</a>
 	<a href="admin_tixian_list.php">帐—提现列表</a>
 	<a href="admin_tixian_view.php">帐—提现详情</a>
+	<br/>
+	<a href="admin_fenleiguanli.php">内—分类管理</a>
+	<a href="admin_fenleiguanli_add.php">内—添加分类栏目</a>
+	<a href="admin_wenzhangguanli.php">内—文章管理</a>
+	<a href="admin_wenzhangguanli_add.php">内—添加文章</a>
 	
 	<br/>
 	<strong>高级会员</strong>
@@ -63,7 +68,8 @@
 	<a href="huser_dailihuiyuan_view.php">代理会员详情</a>
 	<a href="huser_dailihuiyuan_list.php">代理会员管理</a>
 
-	
+	<br/>
+
 	
 	<br/>
 

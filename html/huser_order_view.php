@@ -20,6 +20,17 @@
 
 <div class="content"><div class="Invoice">
 
+	<div class="s1_tab">
+		<ul class="clearfix">
+			<li><a href="">代理会员管理</a></li>
+			<li class="cur"><a href="">订单管理</a></li>
+			<li><a href="">账户查询</a></li>
+			<li><a href="">账户充值</a></li>
+			<li><a href="">用户信息</a></li>
+			<li><a href="huser_huiyuan_add.php">新增会员</a></li>
+		</ul>
+	</div>
+
 	<div class="place">
 		当前位置：<a href="">首页</a> > <a href="">订单管理</a> > 订单详情
 	</div>
