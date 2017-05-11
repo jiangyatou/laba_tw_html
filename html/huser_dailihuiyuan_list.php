@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>订单管理 - 亚媒社</title>
+	<title>代理会员管理 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -22,8 +22,8 @@
 
 	<div class="s1_tab">
 		<ul class="clearfix">
-			<li><a href="order_list.php">代理会员管理</a></li>
-			<li class="cur"><a href="order_list.php">订单管理</a></li>
+			<li class="cur"><a href="order_list.php">代理会员管理</a></li>
+			<li><a href="order_list.php">订单管理</a></li>
 			<li><a href="account_query.php">账户查询</a></li>
 			<li><a href="chongzhi.php">账户充值</a></li>
 			<li><a href="person_edit.php">用户信息</a></li>
@@ -32,12 +32,12 @@
 	</div>
 
 	<div class="place">
-		当前位置：<a href="">首页</a> > 订单管理
+		当前位置：<a href="">首页</a> > 代理会员管理
 	</div>
 	
-	<div class="main_o" style="padding-bottom:35px;">
+	<div class="main_o" style="padding-bottom:0px;">
 		
-		<h3 class="title4"><strong><a href="#">订单管理</a></strong>
+		<h3 class="title4"><strong><a href="#">代理会员管理</a></strong>
 			<div class="search_1">
 <!--
 				<form action="" method="" name="">
@@ -50,15 +50,8 @@
 						<input type="text" class="txt2" id="datepicker1" />-<input type="text" class="txt2" id="datepicker2" />
 					</div>
 					<div class="l">
-						<select name="" class="sel1" id="mediatype">
-							<option value="网络媒体">网络媒体</option>
-							<option value="2">2</option>
-							<option value="1">1</option>
-						</select>
-					</div>
-					<div class="l">
-						<input type="text" name="keyword" id="keyword" class="txt5" placeholder="订单号" />
-						<input type="submit" name="submit" class="sub4_3" id="searchnews" value="查询" />
+						<input type="text" name="keyword" id="keyword" class="txt5" placeholder="用户名" />
+						<input type="submit" name="submit" class="sub4_2" id="searchnews" value="查询" />
 					</div>
 				</div>
 <!--
@@ -68,195 +61,136 @@
 			<div class="clr"></div>
 		</h3>
 		<div class="dhorder_m">
-			<div class="tab1">
-				<ul>
-					<li class="cur"><a href="">全部订单</a></li>
-					<li><a href="">预约状态</a></li>
-					<li><a href="">已完成</a></li>
-					<li><a href="">正执行</a></li>
-					<li><a href="">已流单</a></li>
-					<li><a href="">已拒单</a></li>
-					<li><a href="">申诉订单</a></li>
-					<li><a href="">退还</a></li>
-				</ul>
-			</div>
 			<div class="tab1_body">
 <table class="table_in1 cur" id="datatable1">
 	<thead>
 		<tr>
-			<th>订单号</th>
-			<th>活动名称</th>
-			<th>订单类型</th>
-			<th>开始时间</th>
-			<th>结束时间</th>
-			<th>价格</th>
-			<th>订单状态</th>
-			<th>所属用户</th>
-			<th>完成链接/截图</th>
+			<th>序号</th>
+			<th>用户名</th>
+			<th>订单数</th>
+			<th>订单金额</th>
+			<th>占账户收益</th>
+			<th>创建时间</th>
+			<th>状态</th>
+			<th style="width:20%;">备注</th>
 			<th class="nosort">操作</th>
 		</tr>
 	</thead>
 	<tbody id="listcontent">
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic">http://www.laba.tw</td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic"></td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic">http://www.laba.tw</td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic"></td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic">http://www.laba.tw</td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic"></td>
+			<td>212</td>
+			<td class="color1">￥228.00</td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
+			<td>1</td>
 			<td>13711174990</td>
-			<td class="link-pic">http://www.laba.tw</td>
-			<td><a class="color2" href="admin_order_view.php">查看</a></td>
-		</tr>
-		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
+			<td>212</td>
 			<td class="color1">￥228.00</td>
-			<td>完成</td>
-			<td>13711174990</td>
-			<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
-			<td><a class="color2" href="admin_order_view.php">查看</a></td>
-		</tr>
-		<tr>
-			<td>248d4965666</td>
-			<td>互联网大数据新闻编写</td>
-			<td>文案策划</td>
-			<td>2016-9-12</td>
-			<td>2016-9-12</td>
-			<td class="color1">￥228.00</td>
-			<td>未完成</td>
-			<td>13711174990</td>
-			<td class="link-pic"></td>
+			<td>20%</td>
+			<td>2017-4-20 12:40</td>
+			<td>在线</td>
+			<td></td>
 			<td><a class="color2" href="admin_order_view.php">查看</a></td>
 		</tr>
 	</tbody>
 </table>
 			</div>
 			
-			<div style="padding:0px 22px;background:#fff;">
-				<div class="info_hdorder clearfix">
-					<strong>本月订单统计</strong>
-					<ul>
-						<li>总订单数0个/0元</li>
-						<li>已完成0个/0元</li>
-						<li>流单数0个/0元</li>
-						<li>取消数0个/0元</li>
-						<li>拒单数0个/0元</li>
-					</ul>
-				</div>
-			</div>
 
 		</div>
 		
@@ -333,7 +267,7 @@ $(function(){
                 $.ajax({
                     type:"post",
 //					url:"/Admin/searchnewspage",
-					url:"data_huser_order_list.php",
+					url:"data_huser_dailihuiyuan_list.php",
 					dataType: 'html',
                     data:{
                         'start':$("#datepicker1").val(),

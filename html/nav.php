@@ -60,6 +60,8 @@
 	<a href="huser_huiyuan_add.php">新增会员</a>
 	<a href="huser_order_view.php">订单详情</a>
 	<a href="huser_order_list.php">订单管理</a>
+	<a href="huser_dailihuiyuan_view.php">代理会员详情</a>
+	<a href="huser_dailihuiyuan_list.php">代理会员管理</a>
 
 	
 	
