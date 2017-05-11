@@ -72,7 +72,7 @@
 							<button type="button" name="upload_file" id="upload_file" class="txt7" style="height:40px;line-height:40px;">导入</button><br/>
 						</div>
 					</div>
-					<div class="item_f" style="display:block;"><p><i class="LGntas"></i>订单内容：</p>
+					<div class="item_f" style="display:block;"><p><i class="LGntas"></i>活动需求：</p>
 						<div class="r">
 							<!--	在订单详情页中，”订单内容项“ 根据编辑方式不同所显示的界面不同，具体排版与会员下单页界页一样	-->
 							<textarea class="txt_ft1"></textarea>

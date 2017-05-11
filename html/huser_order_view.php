@@ -53,11 +53,32 @@
 					<div class="r"><input type="text" name="textfield" id="datepicker2" class="txt_f1"></div>
 				</div>
 				
-				<div class="item_f"><p><i class="LGntas"></i>活动需求：</p>
-					<div class="r">
-						<textarea class="txt_ft1" style=""></textarea>
+				<div class="item_f"><p><i class="LGntas"></i>编辑方式：</p>
+					<div class="r radio_w">
+						<label><input type="radio" name="edit_type" class="radio_f" value="1" />外部连接</label>
+						<label><input type="radio" name="edit_type" class="radio_f" value="2" />上传文档</label>
+						<label><input type="radio" name="edit_type" class="radio_f" value="3" checked />内部编辑</label>
 					</div>
 				</div>
+				
+				<div id="body_edit_type">
+					<div class="item_f" style="display:none;"><p><i class="LGntas"></i>外部链接：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;" /></div>
+					</div>
+					<div class="item_f" style="display:none;"><p><i class="LGntas"></i>文档导入：</p>
+						<div class="r">
+							<input type="text" name="doc_" id="name2_2"  class="txt_f1" style="awidth:30%;" readonly="">
+							<button type="button" name="upload_file" id="upload_file" class="txt7" style="height:40px;line-height:40px;">导入</button><br/>
+						</div>
+					</div>
+					<div class="item_f" style="display:block;"><p><i class="LGntas"></i>活动需求：</p>
+						<div class="r">
+							<!--	在订单详情页中，”订单内容项“ 根据编辑方式不同所显示的界面不同，具体排版与会员下单页界页一样	-->
+							<textarea class="txt_ft1"></textarea>
+						</div>
+					</div>
+				</div>
+				
 				<div class="item_f"><p><i class="LGntas"></i>订单备注：</p>
 					<div class="r">
 						<textarea class="txt_ft1" style="height:90px;"></textarea>
@@ -147,6 +168,14 @@
 		});
 	}
 	
+	$("input[name=edit_type]").click(function(){
+		var value = $(this).val();
+		var index = $(this).index("input[name=edit_type]");
+		console.log(index);
+		console.log(value);
+		$("#body_edit_type .item_f").eq(index).css("display","block").siblings().css("display","none");		
+	});
+
 $(function(){
 
 });
