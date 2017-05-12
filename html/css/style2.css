@@ -1302,8 +1302,12 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 
 .tab1_body table .td_title{	text-align:left;	padding:10px 1em;	height:auto;	}
 
-
-
+.ul_table{		display:block;	width:100%;	background:#FBFBFB;	padding:5px 0;	border:1px solid #E5E5E5;	}
+.ul_table li{	float:left;	width:33%;	padding:8px 0;	}
+.ul_table li .sp1{	width:29%;	float:left;		text-align:right;	color:#333;	padding-right:2%;	}
+.ul_table li .sp2{	width:68%;	float:left; 	}
+.txt_f2{	border:1px solid #E5E5E5;	border-radius:5px;	height:40px;	line-height:40px;	width:90%;	padding:0 3%;	font-size:14px;
+	color:#333;		}
 
 
 

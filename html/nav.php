@@ -57,6 +57,8 @@
 	<a href="admin_fenleiguanli_add.php">内—添加分类栏目</a>
 	<a href="admin_wenzhangguanli.php">内—文章管理</a>
 	<a href="admin_wenzhangguanli_add.php">内—添加文章</a>
+	<a href="admin_huibadianhua_list.php">内—首页回拔电话列表</a>
+	<a href="admin_huwaimeiti_supplier_detail.php">用—户外媒体供应商详情</a>
 	
 	<br/>
 	<strong>高级会员</strong>
