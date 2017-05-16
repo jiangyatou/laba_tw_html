@@ -217,7 +217,7 @@
 						</span>
 						<div class="m">
 							<ul class="sortable" category_id="2" set_name="Entrance_form">
-								<li data_id=""><a href="">全部</a></li>
+								<li data_id="0"><a href="">全部</a></li>
 								<li data_id=""><a class="cur" href="">不限</a></li>
 								<li data_id=""><a href="">CBD商务高级写字楼</a></li>
 								<li data_id=""><a href="">交通主干道</a></li>
@@ -246,7 +246,7 @@
 						</span>
 						<div class="m">
 							<ul class="sortable" category_id="3" set_name="coverage">
-								<li data_id=""><a href="">不限</a></li>
+								<li data_id="0"><a href="">不限</a></li>
 								<li data_id=""><a href="">全国</a></li>
 								<li data_id=""><a href="">北京市</a></li>
 								<li data_id="20"><a href="">天津市</a></li>

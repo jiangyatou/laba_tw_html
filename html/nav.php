@@ -71,7 +71,11 @@
 	<a href="huser_dailihuiyuan_list.php">代理会员管理</a>
 
 	<br/>
-
+	<strong>网络媒体</strong>
+	<a href="internet_media_baike_yingxiao.php">百科营销</a>
+	<a href="internet_media_forum_yingxiao.php">论坛营销</a>
+	
+	
 	
 	<br/>
 
