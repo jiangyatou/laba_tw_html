@@ -8,16 +8,6 @@
 
 	<?php include("cssjs.php"); ?>
 
-	<script type="text/javascript" charset="utf-8" src="/js/ueditor/ueditor.config.js"></script>
-	<script type="text/javascript" charset="utf-8" src="/js/ueditor/ueditor.all.min.js"> </script>
-	<script type="text/javascript" charset="utf-8" src="/js/zh-cn.js"></script>
-
-	<link rel="stylesheet" href="/js/layui/css/layui.css"  media="all">
-	<script src="/js/layui/layui.js" charset="utf-8"></script>
-	<script src="/js/jquery.validate.min.js" charset="utf-8"></script>
-	<script src="/js/messages_zh.min.js" charset="utf-8"></script>
-
-	
 	<style>
 
 	</style>
@@ -331,7 +321,7 @@
 				</form>
 
 				<div class="WIn2" style="margin-top:0;">
-					<h2>百科内容</h2>
+					<h2>创建论坛内容</h2>
 					
 					<div class="WMain1" style="border:none;">
 						<div class="WMain2">

@@ -16,3 +16,14 @@
 
 	<script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
 
+	
+	<script type="text/javascript" src="/js/ueditor/ueditor.config.js"></script>
+	<script type="text/javascript" src="/js/ueditor/ueditor.all.min.js"> </script>
+	<script type="text/javascript" src="/js/zh-cn.js"></script>
+
+	<link rel="stylesheet" href="/js/layui/css/layui.css" />
+	<script type="text/javascript" src="/js/layui/layui.js"></script>
+	<script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="/js/messages_zh.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.form.min.js"></script>
+	

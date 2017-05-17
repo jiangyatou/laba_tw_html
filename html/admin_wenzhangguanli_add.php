@@ -8,10 +8,6 @@
 
 	<?php include("cssjs.php"); ?>
 
-	<script type="text/javascript" charset="utf-8" src="js/ueditor/ueditor.config.js"></script>
-	<script type="text/javascript" charset="utf-8" src="js/ueditor/ueditor.all.min.js"> </script>
-	<script type="text/javascript" charset="utf-8" src="js/zh-cn.js"></script>
-	
 	<style>
 
 	</style>

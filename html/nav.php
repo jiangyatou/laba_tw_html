@@ -74,6 +74,9 @@
 	<strong>网络媒体</strong>
 	<a href="internet_media_baike_yingxiao.php">百科营销</a>
 	<a href="internet_media_forum_yingxiao.php">论坛营销</a>
+	<a href="internet_media_video_yingxiao.php">视频营销</a>
+	<a href="internet_media_weibo_yingxiao.php">微博营销</a>
+	<a href="internet_media_weixin_yingxiao.php">微信营销</a>
 	
 	
 	

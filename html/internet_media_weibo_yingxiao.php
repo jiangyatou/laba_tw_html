@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>百科营销 - 亚媒社</title>
+	<title>微博营销 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -26,57 +26,252 @@
 	
 	<div class="main_o clearfix" style="">
 	
-		<h3 class="title5 clearfix"><strong>百科营销</strong></h3>
+		<h3 class="title5 clearfix"><strong>微博营销</strong></h3>
 		
 		<div class="Wikipedia">
-			<div class="WIn1_2 clearfix">
-				<ul>
-					<li><a href=""><img src="/images/baidu.jpg"></a></li>
-					<li><a href=""><img src="/images/yahoo.jpg"></a></li>
-					<li><a href=""><img src="/images/360.jpg"></a></li>
-					<li><a href=""><img src="/images/sina.jpg"></a></li>
-					<li><a href=""><img src="/images/baidu.jpg"></a></li>
-					<li><a href=""><img src="/images/yahoo.jpg"></a></li>
-					<li><a href=""><img src="/images/360.jpg"></a></li>
-					<li><a href=""><img src="/images/sina.jpg"></a></li>
-					<li><a href=""><img src="/images/baidu.jpg"></a></li>
-					<li><a href=""><img src="/images/yahoo.jpg"></a></li>
-				</ul>
+		
+			<div class="sbox_1 clearfix">
+				<div class="sbox_1_w">
+					<input type="hidden" name="_token" value="x6WF98UczCSVQeCOopUjsUNWUf0inoxZcd4qATQg">
+                    <div class="sbox_1_item clearfix">
+						<span class="l" data="option_0"><strong>平台：</strong></span>
+						<div class="m">
+							<ul category_id="0">
+								<li data_id="1"><a href="" class="cur">微博公众号</a></li>
+                            </ul>
+						</div>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_1"><strong>频道类型：</strong></span>
+						<div class="m">
+							<ul category_id="1">
+								<li><a href="">不限</a></li>
+								<li data_id=""><a href="">新闻资讯</a></li>
+								<li data_id=""><a href="">时尚</a></li>
+								<li data_id=""><a href="">美容</a></li>
+								<li data_id=""><a href="">购物</a></li>
+								<li data_id=""><a href="">搞笑娱乐</a></li>
+								<li data_id=""><a href="">旅游</a></li>
+								<li data_id=""><a href="">摄影</a></li>
+								<li data_id=""><a href="">数码</a></li>
+								<li data_id=""><a href="">母婴育儿</a></li>
+								<li data_id=""><a href="">美食</a></li>
+								<li data_id=""><a href="">互联网</a></li>
+								<li data_id=""><a href="">财经</a></li>
+								<li data_id=""><a href="">汽车</a></li>
+								<li data_id=""><a href="">家居</a></li>
+								<li data_id=""><a href="">情感心理</a></li>
+								<li data_id=""><a href="">星座命理</a></li>
+								<li data_id=""><a href="">教育培训</a></li>
+								<li data_id=""><a href="">职场/管理</a></li>
+								<li data_id=""><a href="">营销</a></li>
+								<li data_id=""><a href="">游戏动漫</a></li>
+								<li data_id=""><a href="">运动健身</a></li>
+								<li data_id=""><a href="">体育</a></li>
+								<li data_id=""><a href="">健康</a></li>
+								<li data_id=""><a href="">养生</a></li>
+								<li data_id=""><a href="">宠物</a></li>
+								<li data_id=""><a href="">生活</a></li>
+								<li data_id=""><a href="">文艺</a></li>
+								<li data_id=""><a href="">两性</a></li>
+                            </ul>
+						</div>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_2"><strong>覆盖区域：</strong></span>
+						<div class="m">
+							<ul category_id="2">
+								<li><a href="">不限</a></li>
+								<li data_id="1"><a href="">北京市</a></li>
+								<li data_id="20"><a href="">天津市</a></li>
+								<li data_id="39"><a href="">河北省</a></li>
+								<li data_id="233"><a href="">山西省</a></li>
+								<li data_id="375"><a href="">内蒙古自治区</a></li>
+								<li data_id="499"><a href="">辽宁省</a></li>
+								<li data_id="628"><a href="">吉林省</a></li>
+								<li data_id="706"><a href="">黑龙江省</a></li>
+								<li data_id="860"><a href="">上海市</a></li>
+								<li data_id="880"><a href="">江苏省</a></li>
+								<li data_id="1006"><a href="">浙江省</a></li>
+								<li data_id="1119"><a href="">安徽省</a></li>
+								<li data_id="1257"><a href="">福建省</a></li>
+								<li data_id="1361"><a href="">江西省</a></li>
+								<li data_id="1484"><a href="">山东省</a></li>
+								<li data_id="1656"><a href="">河南省</a></li>
+								<li data_id="1851"><a href="">湖北省</a></li>
+								<li data_id="1981"><a href="">湖南省</a></li>
+								<li data_id="2131"><a href="">广东省</a></li>
+								<li data_id="2292"><a href="">广西壮族自治区</a></li>
+								<li data_id="2431"><a href="">海南省</a></li>
+								<li data_id="2462"><a href="">重庆市</a></li>
+								<li data_id="2503"><a href="">四川省</a></li>
+								<li data_id="2726"><a href="">贵州省</a></li>
+								<li data_id="2829"><a href="">云南省</a></li>
+								<li data_id="2983"><a href="">西藏自治区</a></li>
+								<li data_id="3066"><a href="">陕西省</a></li>
+								<li data_id="3194"><a href="">甘肃省</a></li>
+								<li data_id="3307"><a href="">青海省</a></li>
+								<li data_id="3360"><a href="">宁夏回族自治区</a></li>
+								<li data_id="3393"><a href="">新疆维吾尔自治区</a></li>
+								<li data_id="3510"><a href="">台湾省</a></li>
+								<li data_id="3511"><a href="">香港特别行政区</a></li>
+								<li data_id="3512"><a href="">澳门特别行政区</a></li>
+							</ul>
+						</div>
+						<span class="r"><a href="">更多</a></span>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_3"><strong>粉丝数：</strong></span>
+						<div class="m">
+							<ul category_id="3">
+								<li><a href="">不限</a></li>
+								<li data_id=""><a href="">5万以下</a></li>
+								<li data_id=""><a href="">5-10万</a></li>
+								<li data_id=""><a href="">10-20万</a></li>
+								<li data_id=""><a href="">20-50万</a></li>
+								<li data_id=""><a href="">50-100万</a></li>
+								<li data_id=""><a href="">100-150万</a></li>
+								<li data_id=""><a href="">150-200万</a></li>
+								<li data_id=""><a href="">200-500万</a></li>
+								<li data_id=""><a href="">500万以上</a></li>
+							</ul>
+						</div>
+						<span class="r"><a href="">更多</a></span>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_5"><strong>参考报价：</strong></span>
+						<div class="m">
+							<ul category_id="5">
+								<li><a href="">不限</a></li>
+								<li data_id="1"><a href="">500元以下</a></li>
+								<li data_id="2"><a href="">500-1000元</a></li>
+								<li data_id=""><a href="">1000-3000元</a></li>
+								<li data_id=""><a href="">3000-5000元</a></li>
+								<li data_id=""><a href="">5000-10000元</a></li>
+								<li data_id=""><a href="">10000元以上</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="sbox_2 clearfix radius1">
+				<strong class="l">已选择：</strong>
+				<ul class="m"></ul>
+				<span class="r">共<b>0</b>条资源</span>
 			</div>
 			
-			<div class="WIn2 tab1_body clearfix">
-				<h2>已选媒体</h2>
+			<div class="sbox_3">
+				<h4><strong class="l">共<b>0</b>条资源</strong>
+					<span class="r">每页显示
+						<select class="" id="page_nums">
+							<option value="10">10</option>
+							<option value="5">5</option>
+							<option value="4">4</option>
+							<option value="3">3</option>
+							<option value="2">2</option>
+							<option value="1">1</option>
+						</select>条记录
+					</span>
+				</h4>
+				<div class="sbox_3_table_2 tab1_body clearfix" style="margin-top:15px;">
+					<table class="table_in1 cur" style="margin:0;">
+						<thead>
+							<tr class="normal">
+								<th style="width:18%;">资源名称</th>
+								<th>频道类型</th>
+								<th>粉丝量</th>
+								<th>广告位置</th>
+								<th>价格</th>
+								<th style="width:20%;">备注</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>新闻资讯</td>
+								<td>25万</td>
+								<td>单图文</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>新闻资讯</td>
+								<td>25万</td>
+								<td>单图文</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>新闻资讯</td>
+								<td>25万</td>
+								<td>单图文</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>新闻资讯</td>
+								<td>25万</td>
+								<td>单图文</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+						</tbody>
+
+					</table>
+					<div class="sbox_3_b" style="width:auto;height:auto;">
+						<a href="" class="more"  style="adisplay:none;">加载更多</a>
+						<div id="demo1"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="WIn2 tab1_body clearfix" style="margin-top:50px;">
+				<h2 style="margin-top:0;">已选媒体</h2>
 				<table class="table_in1 cur" style="margin:0;">
 					<thead>
 						<tr class="normal">
 							<th style="width:18%;">资源名称</th>
-							<th style="width:auto;">介绍</th>
-							<th style="width:15%;">价格</th>
-							<th style="width:15%;">操作</th>
+							<th>频道类型</th>
+							<th>粉丝量</th>
+							<th>广告位置</th>
+							<th>价格</th>
+							<th style="width:8%;">操作</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>新闻资讯</td>
+							<td>25万</td>
+							<td>单图文</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>新闻资讯</td>
+							<td>25万</td>
+							<td>单图文</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>新闻资讯</td>
+							<td>25万</td>
+							<td>单图文</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>新闻资讯</td>
+							<td>25万</td>
+							<td>单图文</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
@@ -84,17 +279,16 @@
 				</table>
 			</div>
 		
-			<div class="sbox_5 clearfix">
-			
+			<div class="sbox_5 clearfix" style="margin-top:50px;">
 			<!--	稿件上传表单	-->
 				<form id="form1" style="position:absolute;z-index:1000;">
 					<input type="hidden" name="_token" value="x6WF98UczCSVQeCOopUjsUNWUf0inoxZcd4qATQg">
 					<input type="file" name="file" id="Manuscripts" class="txt6 txt6_up" 
 						style="display:none;opacity:0;"	/>
 				</form>
-			
-				<div class="WIn2">
-					<h2>百科内容</h2>
+
+				<div class="WIn2" style="margin-top:0;">
+					<h2>创建微博公众号软广直发内容</h2>
 					
 					<div class="WMain1" style="border:none;">
 						<div class="WMain2">
@@ -446,8 +640,8 @@
 	$(".sbox_1_item .r a").click(function () {
 		if ($(this).attr("data") == "on") {
 			$(this).attr("data", "off");
-			$(this).parent().siblings(".m").find("ul").css("height", "25px");
-			$(this).parents(".sbox_1_item").css("height", "73px");
+			$(this).parent().siblings(".m").find("ul").css("height", "30px");
+			$(this).parents(".sbox_1_item").css("height", "52px");
 		} else {
 			$(this).attr("data", "on");
 			$(this).parent().siblings(".m").find("ul").css("height", "auto");
@@ -783,9 +977,12 @@ function setOffset(ele1,ele2){
 	$(ele1).show().offset({"left":left,"top":top});
 	console.log(left)
 	console.log(top)
-}	
-setOffset("#Manuscripts","#upload_file");
-	
+}
+$(function(){
+	setTimeout(function(){
+		setOffset("#Manuscripts","#upload_file");
+	},1000);
+});
 	
 	
 	

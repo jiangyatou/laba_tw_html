@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>百科营销 - 亚媒社</title>
+	<title>视频营销 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -26,57 +26,275 @@
 	
 	<div class="main_o clearfix" style="">
 	
-		<h3 class="title5 clearfix"><strong>百科营销</strong></h3>
+		<h3 class="title5 clearfix"><strong>视频营销</strong></h3>
 		
 		<div class="Wikipedia">
-			<div class="WIn1_2 clearfix">
-				<ul>
-					<li><a href=""><img src="/images/baidu.jpg"></a></li>
-					<li><a href=""><img src="/images/yahoo.jpg"></a></li>
-					<li><a href=""><img src="/images/360.jpg"></a></li>
-					<li><a href=""><img src="/images/sina.jpg"></a></li>
-					<li><a href=""><img src="/images/baidu.jpg"></a></li>
-					<li><a href=""><img src="/images/yahoo.jpg"></a></li>
-					<li><a href=""><img src="/images/360.jpg"></a></li>
-					<li><a href=""><img src="/images/sina.jpg"></a></li>
-					<li><a href=""><img src="/images/baidu.jpg"></a></li>
-					<li><a href=""><img src="/images/yahoo.jpg"></a></li>
-				</ul>
+		
+			<div class="sbox_1 clearfix">
+				<div class="sbox_1_w">
+					<input type="hidden" name="_token" value="x6WF98UczCSVQeCOopUjsUNWUf0inoxZcd4qATQg">
+                    <div class="sbox_1_item clearfix">
+						<span class="l" data="option_0"><strong>平台：</strong></span>
+						<div class="m">
+							<ul category_id="0">
+								<li><a href="" class="cur">不限</a></li>
+								<li data_id="1"><a href="">直播</a></li>
+								<li data_id="2"><a href="">美拍</a></li>
+								<li data_id="3"><a href="">秒拍</a></li>
+								<li data_id="4"><a href="">快手</a></li>
+								<li data_id="5"><a href="">哔哩哔哩动画</a></li>
+								<li data_id="6"><a href="">优酷</a></li>
+								<li data_id="7"><a href="">YY</a></li>
+								<li data_id="8"><a href="">爱奇艺</a></li>
+								<li data_id="9"><a href="">腾讯视频</a></li>
+								<li data_id="10"><a href="">小咖秀</a></li>
+                            </ul>
+						</div>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_1"><strong>视频类型：</strong></span>
+						<div class="m">
+							<ul category_id="1">
+								<li><a href="">不限</a></li>
+								<li data_id="1"><a href="">美容美妆</a></li>
+								<li data_id="2"><a href="">搞笑/段子</a></li>
+								<li data_id=""><a href="">游戏动漫</a></li>
+								<li data_id=""><a href="">运动健身</a></li>
+								<li data_id=""><a href="">娱乐八卦</a></li>
+								<li data_id=""><a href="">音乐</a></li>
+								<li data_id=""><a href="">美食</a></li>
+								<li data_id=""><a href="">母婴/宝宝</a></li>
+								<li data_id=""><a href="">生活日常</a></li>
+								<li data_id=""><a href="">舞蹈</a></li>
+								<li data_id=""><a href="">宠物</a></li>
+								<li data_id=""><a href="">健康/养生</a></li>
+								<li data_id=""><a href="">旅游</a></li>
+								<li data_id=""><a href="">服饰搭配</a></li>
+								<li data_id=""><a href="">绘画</a></li>
+								<li data_id=""><a href="">汽车</a></li>
+								<li data_id=""><a href="">科技/数码</a></li>
+								<li data_id=""><a href="">情感心理</a></li>
+								<li data_id=""><a href="">新闻资讯</a></li>
+								<li data_id=""><a href="">摄影</a></li>
+								<li data_id=""><a href="">科普</a></li>
+								<li data_id=""><a href="">教育/培训</a></li>
+								<li data_id=""><a href="">手工/DIY</a></li>
+                            </ul>
+						</div>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_2"><strong>覆盖区域：</strong></span>
+						<div class="m">
+							<ul category_id="2">
+								<li><a href="">不限</a></li>
+								<li data_id="1"><a href="">北京市</a></li>
+								<li data_id="20"><a href="">天津市</a></li>
+								<li data_id="39"><a href="">河北省</a></li>
+								<li data_id="233"><a href="">山西省</a></li>
+								<li data_id="375"><a href="">内蒙古自治区</a></li>
+								<li data_id="499"><a href="">辽宁省</a></li>
+								<li data_id="628"><a href="">吉林省</a></li>
+								<li data_id="706"><a href="">黑龙江省</a></li>
+								<li data_id="860"><a href="">上海市</a></li>
+								<li data_id="880"><a href="">江苏省</a></li>
+								<li data_id="1006"><a href="">浙江省</a></li>
+								<li data_id="1119"><a href="">安徽省</a></li>
+								<li data_id="1257"><a href="">福建省</a></li>
+								<li data_id="1361"><a href="">江西省</a></li>
+								<li data_id="1484"><a href="">山东省</a></li>
+								<li data_id="1656"><a href="">河南省</a></li>
+								<li data_id="1851"><a href="">湖北省</a></li>
+								<li data_id="1981"><a href="">湖南省</a></li>
+								<li data_id="2131"><a href="">广东省</a></li>
+								<li data_id="2292"><a href="">广西壮族自治区</a></li>
+								<li data_id="2431"><a href="">海南省</a></li>
+								<li data_id="2462"><a href="">重庆市</a></li>
+								<li data_id="2503"><a href="">四川省</a></li>
+								<li data_id="2726"><a href="">贵州省</a></li>
+								<li data_id="2829"><a href="">云南省</a></li>
+								<li data_id="2983"><a href="">西藏自治区</a></li>
+								<li data_id="3066"><a href="">陕西省</a></li>
+								<li data_id="3194"><a href="">甘肃省</a></li>
+								<li data_id="3307"><a href="">青海省</a></li>
+								<li data_id="3360"><a href="">宁夏回族自治区</a></li>
+								<li data_id="3393"><a href="">新疆维吾尔自治区</a></li>
+								<li data_id="3510"><a href="">台湾省</a></li>
+								<li data_id="3511"><a href="">香港特别行政区</a></li>
+								<li data_id="3512"><a href="">澳门特别行政区</a></li>
+							</ul>
+						</div>
+						<span class="r"><a href="">更多</a></span>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_3"><strong>粉丝数：</strong></span>
+						<div class="m">
+							<ul category_id="3">
+								<li><a href="">不限</a></li>
+								<li data_id=""><a href="">1000-5000</a></li>
+								<li data_id=""><a href="">5000-1万</a></li>
+								<li data_id=""><a href="">1-2万</a></li>
+								<li data_id=""><a href="">2-5万</a></li>
+								<li data_id=""><a href="">5-10万</a></li>
+								<li data_id=""><a href="">10万以上</a></li>
+							</ul>
+						</div>
+						<span class="r"><a href="">更多</a></span>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_4"><strong>名人性别：</strong></span>
+						<div class="m">
+							<ul category_id="4">
+								<li><a href="">不限</a></li>
+								<li data_id="1"><a href="">男</a></li>
+								<li data_id="2"><a href="">女</a></li>
+							</ul>
+						</div>
+						<span class="r"><a href="">更多</a></span>
+					</div>
+					<div class="sbox_1_item clearfix">
+						<span class="l" data="option_5"><strong>参考报价：</strong></span>
+						<div class="m">
+							<ul category_id="5">
+								<li><a href="">不限</a></li>
+								<li data_id="1"><a href="">500元以下</a></li>
+								<li data_id="2"><a href="">500-1000元</a></li>
+								<li data_id="3"><a href="">1000-5000元</a></li>
+								<li data_id="4"><a href="">5000-1万元</a></li>
+								<li data_id="5"><a href="">1-5万元</a></li>
+								<li data_id="6"><a href="">5万元以上</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="sbox_2 clearfix radius1">
+				<strong class="l">已选择：</strong>
+				<ul class="m"></ul>
+				<span class="r">共<b>0</b>条资源</span>
 			</div>
 			
-			<div class="WIn2 tab1_body clearfix">
-				<h2>已选媒体</h2>
+			<div class="sbox_3">
+				<h4><strong class="l">共<b>0</b>条资源</strong>
+					<span class="r">每页显示
+						<select class="" id="page_nums">
+							<option value="10">10</option>
+							<option value="5">5</option>
+							<option value="4">4</option>
+							<option value="3">3</option>
+							<option value="2">2</option>
+							<option value="1">1</option>
+						</select>条记录
+					</span>
+				</h4>
+				<div class="sbox_3_table_2 tab1_body clearfix" style="margin-top:15px;">
+					<table class="table_in1 cur" style="margin:0;">
+						<thead>
+							<tr class="normal">
+								<th style="width:18%;">资源名称</th>
+								<th>平台</th>
+								<th>视频类型</th>
+								<th>粉丝量</th>
+								<th>性别</th>
+								<th>价格</th>
+								<th style="width:20%;">备注</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>直播</td>
+								<td>美容美妆</td>
+								<td>25万</td>
+								<td>男</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>直播</td>
+								<td>美容美妆</td>
+								<td>25万</td>
+								<td>男</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>直播</td>
+								<td>美容美妆</td>
+								<td>25万</td>
+								<td>男</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
+								<td>直播</td>
+								<td>美容美妆</td>
+								<td>25万</td>
+								<td>男</td>
+								<td class="color1">￥240.00</td>
+								<td></td>
+							</tr>
+						</tbody>
+
+					</table>
+					<div class="sbox_3_b" style="width:auto;height:auto;">
+						<a href="" class="more"  style="adisplay:none;">加载更多</a>
+						<div id="demo1"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="WIn2 tab1_body clearfix" style="margin-top:50px;">
+				<h2 style="margin-top:0;">已选媒体</h2>
 				<table class="table_in1 cur" style="margin:0;">
 					<thead>
 						<tr class="normal">
 							<th style="width:18%;">资源名称</th>
-							<th style="width:auto;">介绍</th>
-							<th style="width:15%;">价格</th>
-							<th style="width:15%;">操作</th>
+							<th>平台</th>
+							<th>视频类型</th>
+							<th>粉丝量</th>
+							<th>性别</th>
+							<th>价格</th>
+							<th style="width:8%;">操作</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>直播</td>
+							<td>美容美妆</td>
+							<td>25万</td>
+							<td>男</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>直播</td>
+							<td>美容美妆</td>
+							<td>25万</td>
+							<td>男</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>直播</td>
+							<td>美容美妆</td>
+							<td>25万</td>
+							<td>男</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
 						<tr>
 							<td class="logo-title"><img src="/images/logo_sina.png">新浪新闻</td>
-							<td class="alignleft">新浪网XXXXXXXXXXXXXX</td>
+							<td>直播</td>
+							<td>美容美妆</td>
+							<td>25万</td>
+							<td>男</td>
 							<td class="color1">￥240.00</td>
 							<td><a href="#" class="del_x">×</a></td>
 						</tr>
@@ -84,54 +302,42 @@
 				</table>
 			</div>
 		
-			<div class="sbox_5 clearfix">
-			
+			<div class="sbox_5 clearfix" style="margin-top:50px;">
 			<!--	稿件上传表单	-->
 				<form id="form1" style="position:absolute;z-index:1000;">
 					<input type="hidden" name="_token" value="x6WF98UczCSVQeCOopUjsUNWUf0inoxZcd4qATQg">
 					<input type="file" name="file" id="Manuscripts" class="txt6 txt6_up" 
 						style="display:none;opacity:0;"	/>
 				</form>
-			
-				<div class="WIn2">
-					<h2>百科内容</h2>
+
+				<div class="WIn2" style="margin-top:0;">
+					<h2>创建视频内容</h2>
 					
 					<div class="WMain1" style="border:none;">
 						<div class="WMain2">
 							<ul>
 								<li style="display:block;">
-									<div class="WMain3"><p><i class="LGntas">*</i>活动标题:</p>
+									<div class="WMain3"><p><i class="LGntas">*</i>合作形式：</p>
 										<input type="text" name="name1" id="name1" maxlength="25"
-											placeholder="可输入25个汉字" class="WIFN1"/>
+											placeholder="" class="WIFN1" style="width:30%;" />
 									</div>
-									<div class="WMain3"><p><i class="LGntas">*</i>稿件内容:</p>
-										<label><input type="radio" name="name2" value="1" checked onclick="waibu.style.display='';shangchuan.style.display='none';bianji.style.display='none';$('#Manuscripts').hide();" checked/>外部连接</label>
-										<label><input type="radio" name="name2" value="2" onclick="shangchuan.style.display='';waibu.style.display='none';bianji.style.display='none';$('#Manuscripts').show();setOffset('#Manuscripts','#upload_file');"/>上传文档</label>
-										<label><input type="radio" name="name2" value="3" onclick="bianji.style.display='';waibu.style.display='none';shangchuan.style.display='none';$('#Manuscripts').hide();"/>内部编辑</label>
+									<div class="WMain3"><p><i class="LGntas">*</i>直播标题：</p>
+										<input type="text" name="name1" id="name1" maxlength="25"
+											placeholder="" class="WIFN1"/>
 									</div>
-									<div id="waibu" title="外部连接">
-										<div class="WMain3"><p><i class="LGntas">*</i>外部链接:</p>
-											<input type="text" name="name2_1" id="name2_1"
-												class="WIFN1"/>
-										</div>
+									<div class="WMain3"><p><i class="LGntas">*</i>具体形式：</p>
+										<label><input type="radio" name="name2" value="1" />活动现场直播</label>
+										<label><input type="radio" name="name2" value="2" />产品使用</label>
+										<label><input type="radio" name="name2" value="3" />店铺体验</label>
+										<label><input type="radio" name="name2" value="4" />游戏直播</label>
 									</div>
-									<div id="shangchuan" title="上传文档" style="display: none;">
-										<div class="WMain3 WMain3_2"><p><i class="LGntas">*</i>稿件导入:</p>
-											<input type="text" name="name2_2" id="name2_2" class="txt6" readonly />
-											<button type="button" name="upload_file" id="upload_file" class="txt7" style="height:32px;" >导入</button><br/>
-											<span style="margin-left: 145px;">选填，如果您的文章已编辑完成，请复制链接到此处，并点击“导入”。</span>
-										</div>
-									</div>
-									<div id="bianji" title="内部编辑" style="display: none;">
-										<div class="WMain3 WMain3_1"><p><i class="LGntas">*</i>内容编辑:</p>
+									<div class="WMain3">
+										<div class="WMain3 WMain3_1"><p><i class="LGntas">*</i>直播内容：</p>
 											<script id="container" name="content" type="text/plain" style="width:90%;aheight:300px;width:auto;"></script>
 										</div>
 									</div>															
-									<div class="WMain3 WMain3_1"><p><i class="LGntas"></i>关键字:</p>
-										<div id="key_input">
-											<input type="text" name="name3" id="name3" class="WIFN1" placeholder="关键字不超过100个字符，多个关键字请用，隔开"/>
-											<p>还可输入<b>100</b>个字</p>
-										</div>
+									<div class="WMain3 WMain3_1"><p><i class="LGntas"></i>直播地点：</p>
+										<input type="text" name="name3" id="name3" class="WIFN1" placeholder="" />
 									</div>
 									<div class="WMain3 WMain3_2"><p><i class="LGntas">*</i>开始时间:</p>
 										<input type="text" name="name4" id="datepicker1" class="txt2"/>
@@ -147,7 +353,7 @@
 										</select>分
 										<span id="time1-error">请选择当前时间15分钟后，7天之内的时间</span>
 									</div>
-									<div class="WMain3 WMain3_2"><p><i class="LGntas">*</i>截止时间:</p>
+									<div class="WMain3 WMain3_2"><p><i class="LGntas">*</i>结束时间:</p>
 										<input type="text" name="name5" id="datepicker2" class="txt2"/>
 										<select class="sel_t1 options_h" name="name5_1">
 											<option value='00'>00</option>
@@ -161,10 +367,16 @@
 										</select>分
 										<span id="time2-error">请选择开始时间24小时后，7天之内的时间</span>
 									</div>
-									<div class="WMain3 WMain3_1"><p><i class="LGntas">*</i>新闻备注:</p>
+									<div id="shangchuan" title="上传附件">
+										<div class="WMain3 WMain3_2"><p><i class="LGntas">*</i>上传附件：</p>
+											<input type="text" name="name2_2" id="name2_2" class="txt6" readonly />
+											<button type="button" name="upload_file" id="upload_file" class="txt7" style="height:32px;" >导入</button><br/>
+											<span style="margin-left: 145px;">选填，如果您的文章已编辑完成，请复制链接到此处，并点击“导入”。</span>
+										</div>
+									</div>
+									<div class="WMain3 WMain3_1"><p><i class="LGntas">*</i>备注:</p>
 										<div id="xinwenbeizhu">
 											<textarea type="text" name="name6" id="name6" class="WIFN2"></textarea>
-											<p>还可输入<b>500</b>个字</p>
 										</div>
 									</div>
 									
@@ -446,8 +658,8 @@
 	$(".sbox_1_item .r a").click(function () {
 		if ($(this).attr("data") == "on") {
 			$(this).attr("data", "off");
-			$(this).parent().siblings(".m").find("ul").css("height", "25px");
-			$(this).parents(".sbox_1_item").css("height", "73px");
+			$(this).parent().siblings(".m").find("ul").css("height", "30px");
+			$(this).parents(".sbox_1_item").css("height", "52px");
 		} else {
 			$(this).attr("data", "on");
 			$(this).parent().siblings(".m").find("ul").css("height", "auto");
@@ -783,9 +995,12 @@ function setOffset(ele1,ele2){
 	$(ele1).show().offset({"left":left,"top":top});
 	console.log(left)
 	console.log(top)
-}	
-setOffset("#Manuscripts","#upload_file");
-	
+}
+$(function(){
+	setTimeout(function(){
+		setOffset("#Manuscripts","#upload_file");
+	},1000);
+});
 	
 	
 	
