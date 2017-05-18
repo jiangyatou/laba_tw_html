@@ -44,7 +44,7 @@
 						gzanteng@qq.com
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>证件类型：</p>
-						<select class="sel_2">
+						<select class="sel_2"  style="height: 40px; color: #666">
 							<option value="">身份证</option>
 							<option value="">驾驶证</option>
 							<option value="">。。。。。。。</option>

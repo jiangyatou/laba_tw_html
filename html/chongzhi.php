@@ -41,7 +41,7 @@
 		
 		<div class="IF1 clearfix" style="padding:70px 0% 0 5%;width:75%;">
 			<div class="IF3"><p>充值金额:</p>
-				 <input type="text" name="name1" id="name1"  class="IFN1" style="border-color:#EEEEEE;border-radius:5px;height:36px;line-height:36px;" />
+				 <input type="text" name="textfield" id="textfield" class="txt_f1" style="width:14%;">
 				 <span>元</span>
 			</div>
 			<div class="LGnt8">

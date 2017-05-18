@@ -9,7 +9,7 @@
 	<?php include("cssjs.php"); ?>
 	
 	<style>
-
+		
 	</style>
 </head>
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
@@ -43,34 +43,34 @@
 						gzanteng@qq.com
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>兴趣爱好类：</p>
-						<select class="sel_2">
+						<select class="sel_2" style="height: 40px; color: #666">
 							<option value="">请选择问题</option>
 							<option value="">请选择问题请选择问题1</option>
 							<option value="">请选择问题2</option>
 						</select>
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>您的回答：</p>
-						<input type="text" name="textfield" id="textfield" class="txt6">
+						<input type="text" name="textfield" id="textfield" class="txt6"  style="height: 40px; color: #666">
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>家庭工作类：</p>
-						<select class="sel_2">
+						<select class="sel_2" style="height: 40px; color: #666">
 							<option value="">请选择问题</option>
 							<option value="">请选择问题请选择问题1</option>
 							<option value="">请选择问题2</option>
 						</select>
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>您的回答：</p>
-						<input type="text" name="textfield" id="textfield" class="txt6">
+						<input type="text" name="textfield" id="textfield" class="txt6"  style="height: 40px; color: #666">
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>教育杂项类：</p>
-						<select class="sel_2">
+						<select class="sel_2" style="height: 40px; color: #666">
 							<option value="">请选择问题</option>
 							<option value="">请选择问题请选择问题1</option>
 							<option value="">请选择问题2</option>
 						</select>
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>您的回答：</p>
-						<input type="text" name="textfield" id="textfield" class="txt6">
+						<input type="text" name="textfield" id="textfield" class="txt6"  style="height: 40px; color: #666">
 					</div>
 					<div class="WMain3 WMain3_2 clearfix" style="margin-top:50px;">
 						<input type="submit" value="提交" class="sub5">

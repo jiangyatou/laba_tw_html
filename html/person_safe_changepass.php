@@ -44,14 +44,14 @@
 						gzanteng@qq.com
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>旧密码：</p>
-						<input type="password" name="textfield" id="textfield" class="txt6">
+						<input type="password" name="textfield" id="textfield" class="txt6"  style="height: 40px;">
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>新密码：</p>
-						<input type="password" name="textfield" id="textfield" class="txt6">
+						<input type="password" name="textfield" id="textfield" class="txt6"  style="height: 40px;">
 						<div>由字母、数字和特殊符号组成，区分大小写(6~16个字符)。示例：cndns456@#!</div>
 					</div>
 					<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>确认密码：</p>
-						<input type="password" name="textfield" id="textfield" class="txt6">
+						<input type="password" name="textfield" id="textfield" class="txt6"  style="height: 40px;">
 					</div>
 					<div class="WMain3 WMain3_2 clearfix" style="margin-top:50px;">
 						<input type="submit" value="提交" class="sub5">
