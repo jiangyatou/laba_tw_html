@@ -77,8 +77,21 @@
 	<a href="internet_media_video_yingxiao.php">视频营销</a>
 	<a href="internet_media_weibo_yingxiao.php">微博营销</a>
 	<a href="internet_media_weixin_yingxiao.php">微信营销</a>
+	<a href="internet_media_wenda_yingxiao.php">问答营销</a>
+	<a href="internet_media_xinwen_yuegao.php">新闻约稿</a>
 	
-	
+	<br/>
+	<strong>户外媒体</strong>	
+	<a href="huwai_media_ditie_media.php">地铁媒体</a>
+	<a href="huwai_media_gaosu_media.php">高速媒体</a>
+	<a href="huwai_media_gaotie_media.php">高铁媒体</a>
+	<a href="huwai_media_gongjiao_media.php">公交媒体</a>
+	<a href="huwai_media_huwai_dapai.php">户外大牌</a>
+	<a href="huwai_media_huwai_pinmei.php">户外频媒</a>
+	<a href="huwai_media_jichang_media.php">机场媒体</a>
+	<a href="huwai_media_louyu_media.php">楼宇媒体</a>
+	<a href="huwai_media_qita_media.php">其他媒体</a>
+	<a href="huwai_media_yingyuan_media.php">影院媒体</a>
 	
 	<br/>
 
