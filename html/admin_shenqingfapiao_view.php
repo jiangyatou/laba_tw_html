@@ -68,12 +68,18 @@
 					</div>
 					<div class="item_f"><p><i class="LGntas"></i>发送方式：</p>
 						<div class="r radio_w">
-							<label><input type="radio" name="sendway" class="radio_f" value="1" />电子档</label>
-							<label><input type="radio" name="sendway" class="radio_f" value="2" />纸质快递1000起</label>
-						</div>
+							<label><input type="radio" name="radio1" id="radio" value="radio" checked onclick="Email.style.display='';dizhi.style.display='none';" checked/> &nbsp;电子档 &nbsp;&nbsp;&nbsp;&nbsp;</label>
+							<label><input type="radio" name="radio1" id="radio2" value="radio2" onclick="dizhi.style.display='';Email.style.display='none';"/> &nbsp;纸质快递1000起</label>
+							</div>
 					</div>
 					<div class="item_f"><p><i class="LGntas"></i>发票抬头：</p>
 						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:70%;"></div>
+					</div>
+					<div class="item_f" id="Email"><p><i class="LGntas"></i>邮箱地址：</p>
+						<input type="text" name="textfield2" id="textfield2"  class="IFN2"/>
+					</div>
+					<div class="item_f" id="dizhi"><p><i class="LGntas"></i>联系地址：</p>
+						<input type="text" name="textfield2" id="textfield2"  class="IFN2"/>
 					</div>
 					<div class="item_f"><p><i class="LGntas"></i>备注：</p>
 						<div class="r">

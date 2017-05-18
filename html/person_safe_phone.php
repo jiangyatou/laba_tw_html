@@ -43,12 +43,12 @@
 				gzanteng@qq.com
 			</div>
 			<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>手机号码：</p>
-				<input type="text" name="textfield" id="textfield" class="txt6">
+				<input type="text" name="textfield" id="textfield" class="txt_f1" style="width:40%;">
 				<div><span>输入有效的手机号码，以便接收系统通知及重置用户名</span></div>
 			</div>
 			<div class="WMain3 WMain3_2 clearfix"><p><i class="LGntas"></i>手机验证码：</p>
-				<input type="text" name="textfield" id="textfield" class="Bpass_" style="margin-right: 10px;height:30px;line-height:30px;">
-				<input type="submit" name="button1" value="获取验证码" class="LGn3" style="cursor:pointer;">
+				<input type="text" name="textfield" id="textfield" class="Bpass_ " style="margin-right: 10px;width:12%;">
+				<input type="submit" name="button1" value="获取验证码" class="LGn3" style="cursor:pointer;height:37px;line-height:37px;">
 			</div>
 			<div class="WMain3 WMain3_2 clearfix" style="margin-top:50px;">
 				<input type="submit" value="提交" class="sub5">

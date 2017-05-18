@@ -34,7 +34,7 @@
 				
 				<form id="form_fp" action="" method="post">
 					<div class="IF3">
-						<p>票据类型号:</p>
+						<p>票据类型号：</p>
 						<input type="hidden" name="piao_typeid" id="piao_typeid"  class="IFN1" value="1" />
 						<ul class="IFN5">
 							<li data="1" class="cur">收据</li>
@@ -42,17 +42,17 @@
 							<li data="3">专用发票（含税）</li>
 						</ul>
 					</div>
-					<div class="IF3"><p>发票明细:</p>
-						  <select name="select" id="select">
+					<div class="IF3"><p>发票明细：</p>
+						  <select name="select" id="select" class="sel_f1">
 							<option value="">网络服务费</option>
 							<option value="">其他</option>
 						  </select>
 					</div>
-					<div class="IF3"><p>金额类型:</p>
-						<label><input type="radio" name="radio" id="radio1" value="radio1"/> &nbsp;充值金额&nbsp;&nbsp;&nbsp;&nbsp;</label>
+					<div class="IF3"><p>金额类型：</p>
+						<label><input type="radio" name="radio" id="radio1" value="radio1" checked/> &nbsp;充值金额&nbsp;&nbsp;&nbsp;&nbsp;</label>
 						<label><input type="radio" name="radio" id="radio2" value="radio2" /> &nbsp;消费金额</label>
 					</div>
-					<div class="IF3"><p>发票金额:</p>
+					<div class="IF3"><p>发票金额：</p>
 						  <input type="text" name="textfield" id="textfield"  class="IFN1"/>
 						  <span>元</span>
 						  <i style="color:#ccc; font-size: 12px;">
@@ -60,13 +60,19 @@
 							</i>
 					</div>
 					<div class="IF3"><p>发送方式：</p>
-						<label><input type="radio" name="radio1" id="radio" value="radio" /> &nbsp;电子档 &nbsp;&nbsp;&nbsp;&nbsp;</label>
-						<label><input type="radio" name="radio1" id="radio2" value="radio2" /> &nbsp;纸质快递1000起</label>
+						<label><input type="radio" name="radio1" id="radio" value="radio" checked onclick="Email.style.display='';dizhi.style.display='none';" checked/> &nbsp;电子档 &nbsp;&nbsp;&nbsp;&nbsp;</label>
+						<label><input type="radio" name="radio1" id="radio2" value="radio2" onclick="dizhi.style.display='';Email.style.display='none';"/> &nbsp;纸质快递1000起</label>
 					</div>
-					<div class="IF3"><p>发票抬头:</p>
+					<div class="IF3"><p>发票抬头：</p>
 						<input type="text" name="textfield2" id="textfield2"  class="IFN2"/>
 					</div>
-					<div class="IF3"><p>备注:</p>
+					<div class="IF3" id="Email"><p>邮箱地址：</p>
+						<input type="text" name="textfield2" id="textfield2"  class="IFN2"/>
+					</div>
+					<div class="IF3" id="dizhi" style="display: none;"><p>联系地址：</p>
+						<input type="text" name="textfield2" id="textfield2"  class="IFN2"/>
+					</div>
+					<div class="IF3"><p>备注：</p>
 						 <textarea name="textfield3" id="textfield3" class="IFN3"></textarea>
 					</div>
 					<div class="IF3">
