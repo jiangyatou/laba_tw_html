@@ -20,17 +20,22 @@
 		<li><div class="header inactive">
                 <span class="label" id="sd1_2">户外媒体</span></div>
 			<ul class="menu">
-				<!-- <li><a href=""><div class="sd1_2_1">户外媒体订单列表</div></a></li>
-				<li><a href=""><div class="sd1_2_2">平面媒体订单列表</div></a></li>
-				<li><a href=""><div class="sd1_2_3">电视媒体订单列表</div></a></li>
-				<li><a href=""><div class="sd1_2_4">电视媒体订单列表</div></a></li>
-				<li><a href=""><div class="sd1_2_5">电视媒体订单列表</div></a></li> -->
+				<li><a href=""><div class="sd1_2_1">地铁广告</div></a></li>
+				<li><a href=""><div class="sd1_2_2">高速广告</div></a></li>
+				<li><a href=""><div class="sd1_2_3">高铁广告</div></a></li>
+				<li><a href=""><div class="sd1_2_4">公交广告</div></a></li>
+				<li><a href=""><div class="sd1_2_5">户外大牌</div></a></li>
+				<li><a href=""><div class="sd1_2_6">户外频媒</div></a></li>
+				<li><a href=""><div class="sd1_2_7">机场广告</div></a></li>
+				<li><a href=""><div class="sd1_2_8">楼宇广告</div></a></li>
+				<li><a href=""><div class="sd1_2_9">影院广告</div></a></li>  
+				<li><a href=""><div class="sd1_2_10">其他广告</div></a></li> 
 			</ul>
         </li>
 		<li><div class="header inactive">
 				<span class="label" id="sd1_3">平面媒体</span></div>
 			<ul class="menu">
-				<!-- <li><a href=""><div class="sd1_3_1">户外媒体订单列表</div></a></li>
+				<!-- <li><a href=""><div class="sd1_3_1">其他广告</div></a></li>
 				<li><a href=""><div class="sd1_3_2">平面媒体订单列表</div></a></li>
 				<li><a href=""><div class="sd1_3_3">电视媒体订单列表</div></a></li>
 				<li><a href=""><div class="sd1_3_4">电视媒体订单列表</div></a></li>
