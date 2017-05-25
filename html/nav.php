@@ -100,6 +100,8 @@
 	<a href="supplier_order_list.php">订单管理</a>
 	<a href="supplier_order_view.php">订单详情</a>
 	<a href="supplier_tianjia_ziyuan.php">添加资源</a>
+	<a href="supplier_account_query.php">账户查询</a>
+	<a href="supplier_resource_management.php">资源管理</a>
 
 
 

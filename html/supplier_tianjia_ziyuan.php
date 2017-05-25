@@ -15,17 +15,16 @@
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
 
 <?php include("supplier_head.php"); ?>
-<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 普通会员首页	-->
-
+<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 供应商首页	-->
 
 <div class="content"><div class="Invoice">
 
 	<div class="s1_tab">
 		<ul class="clearfix">
 			<li><a href="supplier_order_list.php">订单管理</a></li>
-			<li><a href="">账户查询</a></li>
+			<li><a href="supplier_account_query.php">账户查询</a></li>
 			<li><a href="">用户信息</a></li>
-			<li class="cur"><a href="supplier_tianjia_ziyuan.php">资源管理</a></li>
+			<li class="cur"><a href="supplier_resource_management.php">资源管理</a></li>
 		</ul>
 	</div>
 	

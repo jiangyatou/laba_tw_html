@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>账户查询 - 亚媒社</title>
+	<title>账户查询_供应商 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -14,20 +14,17 @@
 </head>
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
 
-<?php include("head.php"); ?>
-<?php include("side_l_user.php"); ?>			<!--	左弹菜单 普通会员首页	-->
-
+<?php include("supplier_head.php"); ?>
+<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 供应商首页	-->
 
 <div class="content"><div class="Invoice">
 
 	<div class="s1_tab">
 		<ul class="clearfix">
-			<li><a href="">代理会员管理</a></li>
-			<li><a href="">订单管理</a></li>
-			<li class="cur"><a href="">账户查询</a></li>
-			<li><a href="">账户充值</a></li>
+			<li><a href="supplier_order_list.php">订单管理</a></li>
+			<li class="cur"><a href="supplier_account_query.php">账户查询</a></li>
 			<li><a href="">用户信息</a></li>
-			<li><a href="huser_huiyuan_add.php">新增会员</a></li>
+			<li><a href="supplier_tianjia_ziyuan.php">资源管理</a></li>
 		</ul>
 	</div>
 
@@ -55,7 +52,7 @@
 			<div class="account_3">
 				<div class="account_5" style="border-top:none;">
 					<div class="account_6"><img src="/images/aq2_0.png"></div>
-					<p>拥有会员账号数：<span>545个</span></p>
+					<p>拥有媒体资源数：<span>545个</span></p>
 				</div>
 				<div class="account_5">
 					<div class="account_6"><img src="/images/aq2.png"></div>
@@ -68,7 +65,7 @@
 	</div>
 
 
-	<div class="main_o clearfix">
+	<div class="main_o clearfix" style="padding-bottom:0px;">
 		<h3 class="title3" style="padding:20px 30px 0 20px;"><strong>财务明细</strong>
 			<a href=""><img class="title3_img" src="/images/arr_s.png" alt=""></a>
 			<span class="title3_i"></span>
@@ -97,12 +94,6 @@
 								<option value="1">1</option>
 							</select>
 						</div>
-						<div class="l ml10">
-							<select name="" class="sel1" id="keytype">
-								<option value="订单号">订单号</option>
-								<option value="所属用户">所属用户</option>
-							</select>
-						</div>
 						<div class="l">
 							<input type="text" name="keyword" id="keyword" class="txt5" placeholder="订单号" />
 							<input type="submit" name="submit" class="sub4_3" id="searchnews" value="查询" />
@@ -120,7 +111,6 @@
 								<th>订单号</th>
 								<th>订单类型</th>
 								<th>活动名称</th>
-								<th>所属用户</th>
 								<th>状态</th>
 								<th>完成链接/截图</th>
 								<th>金额</th>
@@ -132,7 +122,7 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
+
 								<td>未完成</td>
 								<td class="link-pic"></td>
 								<td class="color_red2">￥228.00</td>
@@ -142,7 +132,7 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
+
 								<td>未完成</td>
 								<td class="link-pic">http://www.baidu.com</td>
 								<td class="color_red2">￥228.00</td>
@@ -152,7 +142,7 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
+
 								<td>未完成</td>
 								<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
 								<td class="color_red2">￥228.00</td>
@@ -162,7 +152,7 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
+
 								<td>未完成</td>
 								<td class="link-pic">http://www.baidu.com</td>
 								<td class="color_red2">￥228.00</td>
@@ -172,7 +162,7 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
+
 								<td>未完成</td>
 								<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
 								<td class="color_red2">￥228.00</td>
@@ -182,7 +172,7 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
+
 								<td>未完成</td>
 								<td class="link-pic">http://www.baidu.com</td>
 								<td class="color_red2">￥228.00</td>
@@ -192,7 +182,7 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
+
 								<td>未完成</td>
 								<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
 								<td class="color_red2">￥228.00</td>
@@ -373,7 +363,7 @@ if( $('#tb_aq2').length > 0 ){
 	var myChart_hv2 = echarts.init(document.getElementById('tb_aq2'));
 	option_hv2 = {
 		title : {
-			text: '发布订单的类型统计',
+			text: '受理成功的订单统计',
 			subtext: '',
 			x:'center',
 			y:'top',
