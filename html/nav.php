@@ -92,7 +92,17 @@
 	<a href="huwai_media_louyu_media.php">楼宇媒体</a>
 	<a href="huwai_media_qita_media.php">其他媒体</a>
 	<a href="huwai_media_yingyuan_media.php">影院媒体</a>
+	<a href="huwai_media_view.php">户外媒体查看详情</a>
 	
+	<br/>
+	<strong>供应商</strong>	
+	<a href="supplier_index.php">供应商首页</a>
+	<a href="supplier_order_list.php">订单管理</a>
+	<a href="supplier_order_view.php">订单详情</a>
+	<a href="supplier_tianjia_ziyuan.php">添加资源</a>
+
+
+
 	<br/>
 
 </div>

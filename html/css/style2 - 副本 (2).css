@@ -1179,13 +1179,10 @@ a.sub4_2:hover{	color:#fff;	}
 .item_f p{	width:120px;	text-align:right;	margin-right:12px;	float:left;	color:#2f4050;	font-size:14px;	}
 .LGntas{	position:relative;	top:2px;	padding-right:8px;	color:#f00;	}
 .item_f .r{	display:block;	float:none;		margin-left:132px;	}
-.txt_f1{	border:1px solid #E5E5E5;	border-radius:5px;	height:40px;	line-height:40px;	width:28%;	padding:0 1%;	font-size:14px;
-	color:#2f4050;	color:#999;		height:38px;	line-height:38px;	}
+.txt_f1{	border:1px solid #E5E5E5;	border-radius:5px;	height:40px;	line-height:40px;	width:28%;	padding:0 1%;	font-size:14px;	color:#2f4050;	color:#999;		}
 .txt_ft1{	width:97%;		height:178px;	border:1px solid #E5E5E5;	line-height:26px;	padding:8px 1%;	font-size:14px;	border-radius:5px;	color:#999;	}
-.sel_f1{	width:22%;	height:40px;	line-height:40px;	font-size:14px;	color:#999999;	border:1px solid #e5e5e5;	padding:0 1%;
-	border-radius:5px;	color:#999;	
-	padding:8px 1%;	padding:8px 1%\9;	height:auto\9;
-	float:left;	margin-right:6px;	}
+.sel_f1{	width:22%;	height:40px;	line-height:40px;	font-size:14px;	color:#999999;	border:1px solid #e5e5e5;	padding:0 1%;	border-radius:5px;	color:#999;	
+	padding:8px 1%;	padding:8px 1%\9;	height:auto\9;	}
 .sub_f1{	awidth:180px;	padding:0 40px;	height: 40px;	line-height:40px;	text-align:center;	background: #ff4a50;	color: #fff;	font-size: 20px;	cursor: pointer;	border: none;
 	border-radius: 5px;	margin-left:27%;	}
 .upload_f1{		position: absolute;	left: 0;	top: 0;	padding: 0;	width: 116px;	height: 95px;	margin: 0;	filter:alpha(opacity=0);	opacity:0;		}
@@ -1344,24 +1341,7 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .position{			font-size:14px;	color:#999;		float:left;		margin:30px 0 0 30px;	line-height:28px;	}
 .position a{		font-size:14px;	color:#999;		}
 .vbox_1{	margin:70px 12% 0 5%;	}
-.vbox_1_l{	width:575px;	width:40%;	aheight:610px;	float:left;		abackground:#ace;	}
-#big_img{		width:100%;	}
-#big_img img{	width:572px;	width:100%;	height:509px;	}
-.small_img{		width:100%;	margin:12px 0 0;	}
-.small_img .m{	display:block;	margin:0 38px 0 38px;	overflow:hidden;	}
-.small_img ul{		width:10000px;	aheight:92px;	position:relative;	left:0;	top:0;	float:left;
-	width:1000%;	}
-.small_img ul li{	float:left;	margin:0 0px 0 0;	position:relative;	left:0;	top:0;
-	width:2.55%	}
-.small_img ul li a{	float:left;	border:2px solid #fff;	width:88%;	margin:0 10% 0 0;	}
-.small_img ul li a.cur{	border:2px solid #1AB394;	}
-.small_img ul li a img{	width:115px;	height:90px;
-	width:100%;	}
-.small_img .m ol{	display:none;	}
-.small_img .prev{	width:26px;	height:92px;	float:left;	background:url(/images/arrl.png) no-repeat center center #EEEEEE;	}
-.small_img .next{	width:26px;	height:92px;	float:right;	background:url(/images/arrr.png) no-repeat center center #EEEEEE;	}
-
-
+.vbox_1_l{	width:575px;	width:40%;	height:610px;	float:left;		background:#ace;	}
 .vbox_1_r{	width:777px;	width:54%;	height:600px;	float:right;	}
 .vbox_1_r_h3{	font-size:30px;	color:#2f4050;	font-weight:400;	line-height:40px;	}
 .vbox_1_r_info1{	width:auto;	background:#ecfbf9;	border:1px dashed #5cc9b3;	line-height:55px;	padding:10px 7.8%;	font-size:20px;
@@ -1385,8 +1365,7 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .vbox_2_t ul li{	float:left;	height:49px;	line-height:49px;	}
 .vbox_2_t ul li a{		float:left;	color:#2f4050;	font-size:16px;	padding:0 30px;	border-radius:8px;	}
 .vbox_2_t ul li a.cur{		background:#1ab394;		color:#ffffff;	}
-.vbox_2_m{	width:100%;	margin:40px auto 0;	min-height:390px;	}
-.vbox_2_body{		width:92%;	margin:0 auto;	line-height:24px;	}
+.vbox_2_m{	width:92%;	margin:40px auto 0;	min-height:390px;	}
 .vbox_2_m .table1{		width:100%;	}
 .vbox_2_m .table1 tr{		}
 .vbox_2_m .table1 tr:nth-child(2n+1){	background:#fbfbfb;	}
@@ -1396,43 +1375,26 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .vbox_2_m_info h3{	font-size:18px;	color:#1ab394;	line-height:40px;	}
 .vbox_2_m_info p{		}
 
-.title3_2{	font-size:24px;	color:#1ab394;	font-weight:400;	height:32px;	line-height:32px;	margin:50px auto 20px;	}
+.title3_2{	font-size:24px;	color:#1ab394;	font-weight:400;	height:32px;	line-height:32px;	}
 .title3_2 a{		}
 .title3_2 strong{	font-weight:400;	float:left;	padding:0 10px;	background:#fff;	position:relative;	z-index:10;	}
 .title3_2_i{	background:url(../images/line_s.png) repeat-x center center;	display:block;	margin:0 38px 0 95px;	height:32px;
 	line-height;32px;	}
 .title3_2_img{	float:right;	padding:10px 7px;	}
-
-.pinglun{	width:97%;	height:194px;	border:1px solid #AAD5CC;	line-height:26px;	padding:10px 1.5%;	font-size:14px;	color:#999;	float:left;
+.pinglun{	width:97%;	height:120px;	border:1px solid #AAD5CC;	line-height:26px;	padding:10px 1.5%;	font-size:14px;	color:#999;	float:left;
 	background:#F9FEFD;	}
 
 
-html .yuyue_info_w{	background:#fff;		border-radius:8px;	z-index:10000;	}
-.yuyue_info{	awidth:80%;	background:#fff;	margin:0 auto;	display:none;	z-index:1000;	}
-.yuyue_info .WMain1{	width:70%;	}
-.yuyue_info .WMain2{	margin:15px 5% 0px 5%;	padding-bottom:50px;	}
-.yuyue_info_w .WMain1{	width:100%;	}
-.yuyue_info .sbox_5 .WMain3 p{	width:160px;	padding-right:15px;	}
-.yuyue_info .sbox_5 .WMain3_1>div{	margin-left:175px;	}
-.yuyue_info_w .layui-layer-title{	display:none;	}
-html .yuyue_info_w .layui-layer-content{	border-radius:8px;	}
-.yuyue_info .title3_2{	margin:15px 15px 0;		}
-.yuyue_info .title3_2 strong{	font-size:18px;	font-weight:400;	}
-#ueditor_0{	z-index:10001;	}
-
-ul.add_resource2{		margin:22px 0 0 30px;	float:left;	}
-ul.add_resource2 li{		background:url(/images/arr_add2.gif) no-repeat left 0 #73D7CD;	float:left;	margin:0 10px 5px 0;	height:30px;
-	border-radius:5px;	}
-ul.add_resource2 li a{	font-size:14px;	font-weight:400;	color:#ffffff;	height:30px;	line-height:30px;	float:left;	padding:0 18px 0 45px;	}
 
 
-.wrap_f2 .item_f p{		width:150px;	}
-.wrap_f2 .item_f .r{	margin-left:162px;	}
-.txt_xieyi{	width:95%;	height:300px;	border:1px solid #E5E5E5;	line-height:26px;	padding:15px 2% 30px;	font-size:14px;	border-radius:5px;
-	overflow-y:auto;	font-size:14px;	color:#5c6b78;	}
-.txt_xieyi h1{	color:#1ab394;	text-align:center;	font-size:16px;	line-height:30px;	}
-.txt_xieyi p{	width:auto;	text-align:left;	margin:0;	float:none;	color:#2f4050;	font-size:14px;	color:#5c6b78;	}
-.wrap_f2 .txt_xieyi p{	width:auto;	text-align:left;	margin:0;	float:none;	color:#2f4050;	font-size:14px;	color:#5c6b78;	}
+
+
+
+
+
+
+
+
 
 
 /*	fix footer	*/
