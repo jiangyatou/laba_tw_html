@@ -293,9 +293,9 @@ td.sbox_3_t4{	font-size:14px;		width:16%;	}
 .sbox_3_b .more{	float:none;	width:120px;	height:28px;	line-height:28px;		background:#EEEEEE;	border:1px solid #E6E6E6;
 	border-radius:30px;		margin:0 auto;	display:block;	}
 
-.sbox_3_table table tr.choose{	background:#3d6983;	}
-.sbox_3_table table tr.choose td{	color:#fff;	}
-.sbox_3_table table tr.choose td.color{		color:#f00;	}
+html body .sbox_3_table table tr.choose{	background:#3d6983;	}
+html body .sbox_3_table table tr.choose td{	color:#fff;	}
+html body .sbox_3_table table tr.choose td.color{		color:#f00;	}
 
 .sbox_4{		}
 .sbox_4 .WIn2{		margin:45px 2.5% 0;	width:auto;	}
@@ -546,7 +546,7 @@ a.txt9_2{	background:#2C9FDD;		margin-left:10px;	}
 .distable th{	background:url(/images/bg_line3.gif) repeat-x 0 0;		}
 
 /*	订单支付	*/
-.table_in1 td.alignleft{		text-align:left;	padding:0 30px;	}
+.table_in1 td.alignleft{		text-align:left;	padding:0 30px;	padding:5px 15px;	}
 
 body .pay_info_w{	border-radius:8px;	}
 body .pay_info_w .layui-layer-title{	border-radius:8px 8px 0 0;	background:#fff;	height:20px;	border-bottom:none;	}
@@ -1337,6 +1337,8 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .table_in1 tr.normal th{	font-weight:400;	}
 .table_in1 a.del_x{	width:14%;	text-align:center;	line-height:25px; 	padding:0 10px;	font-size:26px;	color:#999;	}
 .table_in1 a.del_x:hover{ color:#2C9FDD;	}
+.table_in1 a.del{	width:14%;	text-align:center;	line-height:25px; 	padding:0 10px;	font-size:26px;	color:#999;	}
+.table_in1 a.del:hover{ color:#2C9FDD;	}
 .logo-title{		}
 .logo-title img{	width:auto;	height:43px;	margin-right:8px;	padding:13px 0;	}
 

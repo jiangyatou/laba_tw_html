@@ -103,6 +103,9 @@
 	<a href="supplier_account_query.php">账户查询</a>
 	<a href="supplier_resource_management.php">资源管理</a>
 
+	<br/>
+	<strong>平面媒体</strong>	
+	<a href="pingmian_media_baozhi_zazhi.php">报纸杂志</a>
 
 
 	<br/>
