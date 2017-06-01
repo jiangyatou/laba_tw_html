@@ -1337,7 +1337,7 @@ table.table_in1 tbody td.bz{		text-align:left;	line-height:22px;	padding-left:2%
 .table_in1 tr.normal th{	font-weight:400;	}
 .table_in1 a.del_x{	width:14%;	text-align:center;	line-height:25px; 	padding:0 10px;	font-size:26px;	color:#999;	}
 .table_in1 a.del_x:hover{ color:#2C9FDD;	}
-.table_in1 a.del{	width:14%;	text-align:center;	line-height:25px; 	padding:0 10px;	font-size:26px;	color:#999;	}
+.table_in1 a.del{	width:14%;	text-align:center;	line-height:25px; 	padding:0 10px;	afont-size:26px;	color:#999;	}
 .table_in1 a.del:hover{ color:#2C9FDD;	}
 .logo-title{		}
 .logo-title img{	width:auto;	height:43px;	margin-right:8px;	padding:13px 0;	}

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>账户查询—提现充值列表明细 - 亚媒社</title>
+	<title>账户查询_普通会员 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -71,8 +71,8 @@
 		<div class="dhorder_m">
 			<div class="tab1">
 				<ul>       
-					<li><a href="#">全部</a></li>
-					<li class="cur"><a href="#">提现</a></li>
+					<li class="cur"><a href="#">全部</a></li>
+					<li><a href="#">提现</a></li>
 					<li><a href="#">充值</a></li>
 					<li><a href="#">消费</a></li>
 				</ul>
@@ -101,7 +101,7 @@
 				<a href="" class="sub4_2" style="float:right; margin:15px 30px 0 0;">导出财务明细</a>
 			</div>
 			<div class="tab1_body" style="">
-				<div class="tab1_body_m" style="display:none;">
+				<div class="tab1_body_m" style="display:block;">
 					<table class="table_in1 cur" id="datatable1">
 						<thead>
 							<tr>
@@ -110,7 +110,7 @@
 								<th>订单类型</th>
 								<th>活动名称</th>
 								<th>状态</th>
-								<th>完成链接/截图</th>
+								<th>截图/链接</th>
 								<th>金额</th>
 							</tr>
 						</thead>
@@ -181,11 +181,11 @@
 						</tbody>
 					</table>
 				</div>
-				<div class="tab1_body_m" style="display:block;">
+				<div class="tab1_body_m" style="display:none;">
 					<table class="table_in1 cur" id="datatable2">
 						<thead>
 							<tr>
-								<th style="width:15%;">日期</th>
+								<th>日期</th>
 								<th>订单号</th>
 								<th>消费方式</th>
 								<th>消费账号</th>
@@ -551,14 +551,16 @@ if( $('#tb_aq2').length > 0 ){
                 })
             })
 			
-		$(".tab1 ul li a").unbind("click");		/*	取消原切换事件，改成下面的新切换事件	*/
-		$(".tab1>ul>li>a").click(function(){
+		$(".tab1 ul li a").unbind("click");		/*	取消原切换事件，改成下面的新切换事件		直接跳转	*/
+/* 		$(".tab1>ul>li>a").click(function(){
 			var index=$(this).parent("li").index();
 			$(this).parent("li").addClass("cur").siblings("li").removeClass("cur");
 			$(this).parents(".tab1").next(".tab1_body").find(".tab1_body_m").css("display","none").eq(index).css("display","block");
 			return false;
 		});
+*/
 	})
+	
 </script>
 
 </body>

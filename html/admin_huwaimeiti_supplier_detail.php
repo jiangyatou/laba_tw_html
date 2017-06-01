@@ -80,12 +80,12 @@
 					</div>
 					<div class="item_f"><p><i class="LGntas"></i>代理价：</p>
 						<div class="r">
-							<input type="text" name="textfield" id="textfield" class="txt_f1" style="width:55%;"><span class="color1" style="padding-left:10px;">元</span>
+							<input type="text" name="textfield" id="textfield" class="txt_f1" style="width:35%;"><span class="color1" style="padding-left:10px;">元</span>
 						</div>
 					</div>
 					<div class="item_f"><p><i class="LGntas"></i>平台价：</p>
 						<div class="r">
-							<input type="text" name="textfield" id="textfield" class="txt_f1" style="width:55%;"><span class="color1" style="padding-left:10px;">元</span>
+							<input type="text" name="textfield" id="textfield" class="txt_f1" style="width:35%;"><span class="color1" style="padding-left:10px;">元</span>
 						</div>
 					</div>
 
