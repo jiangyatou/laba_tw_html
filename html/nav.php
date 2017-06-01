@@ -109,5 +109,8 @@
 
 
 	<br/>
+	<a href="order_view_huwai_media.php">普通会员_订单详情 -户外媒体</a>
+	<a href="account_query_tixian_chongzhi_liebiao_mingxi.php">普通会员_账户查询—提现充值列表明细</a>
+	<a href="shengji_huiyuan_tanchuang.php">普通会员_升级会员弹窗</a>
 
 </div>

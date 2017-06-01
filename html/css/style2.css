@@ -1437,6 +1437,28 @@ ul.add_resource2 li a{	font-size:14px;	font-weight:400;	color:#ffffff;	height:30
 .txt_xieyi p{	width:auto;	text-align:left;	margin:0;	float:none;	color:#2f4050;	font-size:14px;	color:#5c6b78;	}
 .wrap_f2 .txt_xieyi p{	width:auto;	text-align:left;	margin:0;	float:none;	color:#2f4050;	font-size:14px;	color:#5c6b78;	}
 
+.txt_table{		display:table;	margin:20px 0;	}
+.txt_table p{	display:table-cell;	vertical-align:middle;	float:none;	}
+.txt_table .r{	display:table-cell;	}
+.txt_table ul{		width:105%;	}
+.txt_table ul li{	float:left;	margin:7px 2% 7px 0;	min-width:30%;	max-width:320px;	}
+.txt_table ul li span.sp1{		width:110px;	float:left;	text-align:right;	padding-right:5px;	}
+.txt_table ul li .txt_f1{		display:block;	margin-left:105px;	margin-right:0;	float:none;	width:180px;	padding:0 5px;	}
+
+html .update_huser_w{	border-radius:10px;	}
+html .update_huser_w .layui-layer-title{	display:none;	}
+.update_huser{	awidth:1039px;	aheight:820px;	margin:0px auto;	background:url(/images/bg_update_huser.jpg) no-repeat center 0 #fff;
+	padding-top:430px;	padding-bottom:50px;	text-align:center;	border-radius:10px;	display:none;	}
+.update_huser_info{	background:#fff;		}
+.update_huser h3{	font-size:36px;	color:#000000;	line-height:76px;	}
+.update_huser h3 span{	font-size:48px;	color:#1ab394;		}
+a.btn_uh{	height:70px;	line-height:70px;	width:412px;	apadding:0 110px;	font-size:34px;	color:#ffffff;	background:#1ab394;
+	border-radius:8px;	display:inline-block;	margin:30px auto 0;	}
+a.btn_uh:hover{	color:#fff;	}
+
+
+
+
 
 /*	fix footer	*/
 html{	height:100%;	}
