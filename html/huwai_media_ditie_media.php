@@ -190,7 +190,7 @@
 									<span class="sp1"><strong>规格：</strong>0.8mX2.0m</span></p>
 								<p><span class="sp1"><strong>刊例价：</strong>0.15万</span>
 									<span class="sp1"><strong>平台价：</strong>0.12万</span>
-									<span class="sp1"><strong>刊例价备注：</strong>1500元/杆/月</span></p>
+									<span class="sp1"><strong>平台价备注：</strong>1200元/杆/月</span></p>
 								<p class="p1">环境说明：该广告位地处古汉大道北端，西湖公园东门侧旁楼顶，视野空旷，可视距离远达1公里开外，北邻湘南最大的烟酒副食批发……</p>
 							</div>
 						</div>
@@ -213,7 +213,7 @@
 									<span class="sp1"><strong>规格：</strong>0.8mX2.0m</span></p>
 								<p><span class="sp1"><strong>刊例价：</strong>0.15万</span>
 									<span class="sp1"><strong>平台价：</strong>0.12万</span>
-									<span class="sp1"><strong>刊例价备注：</strong>1500元/杆/月</span></p>
+									<span class="sp1"><strong>平台价备注：</strong>1200元/杆/月</span></p>
 								<p class="p1">环境说明：该广告位地处古汉大道北端，西湖公园东门侧旁楼顶，视野空旷，可视距离远达1公里开外，北邻湘南最大的烟酒副食批发……</p>
 							</div>
 						</div>
@@ -236,7 +236,7 @@
 									<span class="sp1"><strong>规格：</strong>0.8mX2.0m</span></p>
 								<p><span class="sp1"><strong>刊例价：</strong>0.15万</span>
 									<span class="sp1"><strong>平台价：</strong>0.12万</span>
-									<span class="sp1"><strong>刊例价备注：</strong>1500元/杆/月</span></p>
+									<span class="sp1"><strong>平台价备注：</strong>1200元/杆/月</span></p>
 								<p class="p1">环境说明：该广告位地处古汉大道北端，西湖公园东门侧旁楼顶，视野空旷，可视距离远达1公里开外，北邻湘南最大的烟酒副食批发……</p>
 							</div>
 						</div>
@@ -259,7 +259,7 @@
 									<span class="sp1"><strong>规格：</strong>0.8mX2.0m</span></p>
 								<p><span class="sp1"><strong>刊例价：</strong>0.15万</span>
 									<span class="sp1"><strong>平台价：</strong>0.12万</span>
-									<span class="sp1"><strong>刊例价备注：</strong>1500元/杆/月</span></p>
+									<span class="sp1"><strong>平台价备注：</strong>1200元/杆/月</span></p>
 								<p class="p1">环境说明：该广告位地处古汉大道北端，西湖公园东门侧旁楼顶，视野空旷，可视距离远达1公里开外，北邻湘南最大的烟酒副食批发……</p>
 							</div>
 						</div>
@@ -282,7 +282,7 @@
 									<span class="sp1"><strong>规格：</strong>0.8mX2.0m</span></p>
 								<p><span class="sp1"><strong>刊例价：</strong>0.15万</span>
 									<span class="sp1"><strong>平台价：</strong>0.12万</span>
-									<span class="sp1"><strong>刊例价备注：</strong>1500元/杆/月</span></p>
+									<span class="sp1"><strong>平台价备注：</strong>1200元/杆/月</span></p>
 								<p class="p1">环境说明：该广告位地处古汉大道北端，西湖公园东门侧旁楼顶，视野空旷，可视距离远达1公里开外，北邻湘南最大的烟酒副食批发……</p>
 							</div>
 						</div>
@@ -305,7 +305,7 @@
 									<span class="sp1"><strong>规格：</strong>0.8mX2.0m</span></p>
 								<p><span class="sp1"><strong>刊例价：</strong>0.15万</span>
 									<span class="sp1"><strong>平台价：</strong>0.12万</span>
-									<span class="sp1"><strong>刊例价备注：</strong>1500元/杆/月</span></p>
+									<span class="sp1"><strong>平台价备注：</strong>1200元/杆/月</span></p>
 								<p class="p1">环境说明：该广告位地处古汉大道北端，西湖公园东门侧旁楼顶，视野空旷，可视距离远达1公里开外，北邻湘南最大的烟酒副食批发……</p>
 							</div>
 						</div>

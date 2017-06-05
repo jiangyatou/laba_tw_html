@@ -36,7 +36,7 @@
 				<h3 class="vbox_1_r_h3">广州机场路1心酒店墙面喷绘</h3>
 				<div class="vbox_1_r_info1">
 					<p><span>刊例价：￥40万</span>
-						<span style="margin:0;">刊例价备注：￥40万/年/双面</span>
+						<span style="margin:0;">平台价备注：￥40万/年/双面</span>
 						<span>平台价：<i>￥24万</i></span>
 					</p>
 				</div>

@@ -1,8 +1,8 @@
 <div class="frame" id="top">
 	<div class="logo">
-		<a href="putong_index.php"><img src="/images/logo.png" alt="亚媒社" /></a>
+		<a href="supplier_index.php"><img src="/images/logo.png" alt="亚媒社" /></a>
 	</div>
-    <a href="#" class="sidebar-open-button"></a>
+   <!-- <a href="#" class="sidebar-open-button"></a>-->
     <a href="" class="new-message"><img src="/images/new-order.png" /><i>2</i></a>
     <a href="order_shouli.php" class="new-message"><img src="/images/new-message.png" /><i>2</i></a>
 	<ul class="ul_top">
@@ -17,7 +17,7 @@
 			<img src="/images/v.png" />
             <a class="logout">退出</a>
         </div>
-        <div class="sidepanel-open-button"></div>
+        <!--<div class="sidepanel-open-button"></div>-->
     </div>
 
 </div>

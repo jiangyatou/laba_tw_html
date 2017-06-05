@@ -35,11 +35,12 @@
 		<li><div class="header inactive">
 				<span class="label" id="sd1_3">平面媒体</span></div>
 			<ul class="menu">
-				<!-- <li><a href=""><div class="sd1_3_1">其他广告</div></a></li>
-				<li><a href=""><div class="sd1_3_2">平面媒体订单列表</div></a></li>
-				<li><a href=""><div class="sd1_3_3">电视媒体订单列表</div></a></li>
-				<li><a href=""><div class="sd1_3_4">电视媒体订单列表</div></a></li>
-				<li><a href=""><div class="sd1_3_5">电视媒体订单列表</div></a></li> -->
+				<li><a href=""><div class="sd1_3_1">报纸杂志</div></a></li>
+				<li><a href=""><div class="sd1_3_2">车体广告</div></a></li>
+				<li><a href=""><div class="sd1_3_3">电商包装</div></a></li>
+				<li><a href=""><div class="sd1_3_4">户外看板</div></a></li>
+				<li><a href=""><div class="sd1_3_5">楼宇海报</div></a></li>
+				<li><a href=""><div class="sd1_3_6">书籍装帧</div></a></li>
 			</ul>
         </li>
 		<li><div class="header inactive">

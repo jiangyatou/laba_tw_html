@@ -12,7 +12,7 @@
 <body class="fold">
 
 <?php include("supplier_head.php"); ?>
-<?php include("side_l_user.php"); ?>			<!--	左弹菜单 普通会员首页	-->
+
 
 <div class="content"><div class="Invoice"><div class="INa1dd">
 <div class="main">
