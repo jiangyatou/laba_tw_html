@@ -12,7 +12,7 @@
 
 	</style>
 </head>
-<body class="fold">			<!--	class="fold" 左导航收缩	-->
+<body class="fhide">			<!--	class="fold" 左导航收缩	-->
 
 <?php include("supplier_head.php"); ?>
 <?php include("side_l_admin.php"); ?>			<!--	左弹菜单 供应商首页	-->

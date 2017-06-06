@@ -1110,15 +1110,7 @@ h3.title_main_h{	margin:0 3%;	font-size:24px;	color:#2f4050;	line-height:40px;	p
 }
 #go_top a, #go_top a:hover {	width:20px;	height:21px;	overflow:hidden;	padding:0;	text-align:center;	display:block;	}
 	
-/*	左导航收缩	*/
-body.fold{	}
-body.fold .logo{	width:70px;	}
-	body.fold .logo a{	width:41px;	height:36px;	margin:14px 0 0 14px;	overflow:hidden;	}
-	body.fold .logo img{	width:auto;	height:36px;	margin:0;	}
-body.fold .sidebar{	width:70px;		}
-body.fold .sidebar .sidebar-panel .header{		padding-left:20px;	}
-body.fold .content{	margin-left:70px;	}
-	
+
 
 .s1_tab{	width:100%;	margin:35px auto 0;	background:#fff;	aheight:70px;	padding:0 0 12px 0;	}
 .s1_tab ul{			width:91%;	margin:0 auto;	}
@@ -1471,6 +1463,23 @@ html .sidebar{	position:relative;	left:0;	top:0;	float:left;	padding-bottom:0px;
 
 .account_6{	margin:20px 30px 20px 15%;	}
 
-
+/*	左导航收缩	*/
+body.fold{	}
+body.fold .logo{	width:70px;	}
+	body.fold .logo a{	width:41px;	height:36px;	margin:14px 0 0 14px;	overflow:hidden;	}
+	body.fold .logo img{	width:auto;	height:36px;	margin:0;	}
+body.fold .sidebar{	width:70px;		}
+body.fold .sidebar .sidebar-panel .header{		padding-left:20px;	}
+body.fold .content{	margin-left:70px;	}
+	
+/*	左导航隐藏	*/
+body.fhide{	}
+body.fhide .logo{	width:70px;	}
+	body.fhide .logo a{	width:41px;	height:36px;	margin:14px 0 0 14px;	overflow:hidden;	}
+	body.fhide .logo img{	width:auto;	height:36px;	margin:0;	}
+body.fhide .sidebar{	awidth:70px;		display:none;	}
+body.fhide .sidebar-open-button{	display:none;	}
+body.fhide .sidebar .sidebar-panel .header{		padding-left:20px;	}
+body.fhide .content{	margin-left:70px;	margin-left:0;	}
 
 

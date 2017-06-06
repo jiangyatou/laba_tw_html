@@ -9,7 +9,7 @@
 	<?php include("cssjs.php"); ?>
 	
 </head>
-<body class="fold">
+<body class="fhide">
 
 <?php include("supplier_head.php"); ?>
 
