@@ -1481,5 +1481,7 @@ body.fhide .sidebar{	awidth:70px;		display:none;	}
 body.fhide .sidebar-open-button{	display:none;	}
 body.fhide .sidebar .sidebar-panel .header{		padding-left:20px;	}
 body.fhide .content{	margin-left:70px;	margin-left:0;	}
+body.fhide .ITuser{		width:282px;	width:242px;	}
+body.fhide .HYrukou{	right:60px;		right:20px;	}
 
 
