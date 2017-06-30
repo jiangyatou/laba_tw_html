@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>账户查询—提现充值列表明细 - 亚媒社</title>
+	<title>帐—申请高级会员详情 - 亚媒社</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 
@@ -14,56 +14,107 @@
 </head>
 <body class="fold">			<!--	class="fold" 左导航收缩	-->
 
-<?php include("head.php"); ?>
-<?php include("side_l_user.php"); ?>			<!--	左弹菜单 普通会员首页	-->
+<?php include("admin_head.php"); ?>
+<?php include("side_l_admin.php"); ?>			<!--	左弹菜单 普通会员首页	-->
 
 
 <div class="content"><div class="Invoice">
 
-	<div class="s1_tab">
-		<ul class="clearfix">
-			<li><a href="order_list.php">订单管理</a></li>
-			<li class="cur"><a href="account_query.php">账户查询</a></li>
-			<li><a href="chongzhi.php">账户充值</a></li>
-			<li><a href="person_edit.php">用户信息</a></li>
-			<li><a href="" class="">升级高级会员</a></li>
-		</ul>
-	</div>
-
 	<div class="place">
-		当前位置：<a href="">首页</a> > 账户查询
+		当前位置：<a href="">首页</a> > 帐户信息
 	</div>
 	
-	<div class="main_aq">
-		<h3 class="title3"><strong>账户详情</strong>
-			<a href=""><img class="title3_img" src="/images/arr_s.png" alt="" /></a>
-			<span class="title3_i"></span>
-		</h3>
+	<div class="main_o clearfix" style="padding-bottom:20px;">
+	
+		<h3 class="title4 clearfix"><strong><a>申请高级会员详情</a></strong></h3>
 		
-		<div class="clearfix " >
-			<!--	柱状图	-->
-			<div class="r minh" id="tb_aq1"></div>
-			<div class="account_0">
-				<ul>
-					<li><p>账户总金额：</p><span>￥5210.00元</span></span></li>
-					<li><p>余额：</p><span id="yu_e" data="125000.00">￥125.00元</span></span></li>
-				</ul>
-				<a href="chongzhi.php" class="account_1">充 值</a>
-				<a href="tixian.php" class="account_2">提 现</a>
+		<div class="safe_1 clearfix">
+
+			<div class="wrap_fl clearfix" style="width:35%;">
+				<form action="" method="post">
+					<div class="item_f"><p><i class="LGntas"></i>用户名：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>所属会员：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>创建时间：</p>
+						<div class="r"><input type="text" name="textfield" id="datepicker3" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p style="padding-top:25px;"><i class="LGntas"></i>会员头像：</p>
+						<div class="r" style="position:relative;">
+							<img src="/images/z_add2.png" id="img_upload" style="cursor:pointer;float:left;margin-right:8px;" />
+							<input type="file" name="Documents" id="documents_upload_button" placeholder="未选择任何文件" class="upload_f1" accept="image/*" style="" />
+							<span class="info1_f valign_m" style="height:95px;padding:0;">
+								<i>*</i> 请点击选择图片，仅支持JPG、JPEG、GIF、PNG格式的图片文件，文件不能大于2MB。
+							</span>
+						</div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>昵称：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>联系电话：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>联系QQ：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>邮箱：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>联系地址：</p>
+						<div class="r"><input type="text" name="textfield" id="textfield" class="txt_f1" style="width:75%;"></div>
+					</div>
+					<div class="item_f"><p><i class="LGntas"></i>状态：</p>
+						<div class="r radio_w">
+							<label><input type="radio" name="status" class="radio_f" value="1" />在线</label>
+							<label><input type="radio" name="status" class="radio_f" value="2" />下架</label>
+							<label><input type="radio" name="status" class="radio_f" value="3" />审核</label>
+						</div>
+					</div>
+					<div class="item_f item_f_2" style="margin-top:20px;">
+						<div class="r"><input type="submit" value="提 交" class="sub_f1" style="margin-left:15%;" /></div>
+					</div>
+				</form>
 			</div>
-			<div class="account_3">
-				<div class="account_4 update_user"><img src="/images/aq1.png"></div>
-				<div class="account_5">
-					<div class="account_6"><img src="/images/aq2.png"></div>
-					<p>已发布订单数：<span>545个</span></p>
+			
+			<div class="wrap_fr" style="width:47%;margin-right:2%;">
+				<div class="wrap_fr3">
+					<h3 style="padding-bottom:0;">一周订单统计数据表</h3>
+				<!--	柱状图	-->
+					<div class="" id="tb_hv1">
+						
+					</div>
+					<h3 style="color:#1ab394;margin-top:60px;">账户盈利状况</h3>
+					<div class="clearfix">
+						<div class="l row3_22">
+							<ul style="padding-top:18px;">
+								<li class="li1">
+									<p>帐户总金额<br/>
+										<b>￥2100.00</b></p>
+									<span></span></li>
+								<li class="li2">
+									<p>消费总金额<br/>
+										<b>￥1100.00</b></p>
+									<span></span></li>
+							</ul>
+						
+						</div>
+					<!--	饼状图	-->
+						<div class="r " id="tb_hv2">
+							
+						</div>
+					</div>
+					
 				</div>
 			</div>
-			<!--	柱状图	-->
-			<div class="r minh" id="tb_aq2"></div>
-		</div>		
+				
+		</div>
+		
 	</div>
-
-
+	
+	
+	
 	<div class="main_o clearfix" style="padding-bottom:0;">
 		<h3 class="title3" style="padding:20px 30px 0 20px;"><strong>财务明细</strong>
 			<a href=""><img class="title3_img" src="/images/arr_s.png" alt=""></a>
@@ -110,7 +161,6 @@
 								<th>订单号</th>
 								<th>订单类型</th>
 								<th>活动名称</th>
-								<th>所属用户</th>
 								<th>状态</th>
 								<th>完成链接/截图</th>
 								<th>金额</th>
@@ -122,7 +172,6 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
 								<td>未完成</td>
 								<td class="link-pic"></td>
 								<td class="color_red2">￥228.00</td>
@@ -132,7 +181,6 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
 								<td>未完成</td>
 								<td class="link-pic">http://www.baidu.com</td>
 								<td class="color_red2">￥228.00</td>
@@ -142,7 +190,6 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
 								<td>未完成</td>
 								<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
 								<td class="color_red2">￥228.00</td>
@@ -152,7 +199,6 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
 								<td>未完成</td>
 								<td class="link-pic">http://www.baidu.com</td>
 								<td class="color_red2">￥228.00</td>
@@ -162,7 +208,6 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
 								<td>未完成</td>
 								<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
 								<td class="color_red2">￥228.00</td>
@@ -172,7 +217,6 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
 								<td>未完成</td>
 								<td class="link-pic">http://www.baidu.com</td>
 								<td class="color_red2">￥228.00</td>
@@ -182,7 +226,6 @@
 								<td>sdf26215648621</td>
 								<td>新闻发布</td>
 								<td>新闻发布会公告</td>
-								<td>13711174990</td>
 								<td>未完成</td>
 								<td class="link-pic"><a href=""><img src="/img/1.jpg"></a></td>
 								<td class="color_red2">￥228.00</td>
@@ -318,22 +361,11 @@
 		</div>
 	</div>
 
-
-
 </div></div>
 
+
+
 <?php include("foot.php"); ?>
-
-<!--	该弹窗用于当普能会员页有提示升级模块时，弹窗显示（首页。账户查询页）	-->
-<!--	点击判断如用户账户不足10W则跳转充值界面，否则显示申请等待升级审核	-->
-<div class="update_huser">
-	<div class="update_huser_info">
-		<h3>会员只需充值满<span class="">10万元</span>即可成为平台的高级会员，<br/>
-			拥有分销权限，添加分销会员，<span class="">赚拥金、</span>助推广！</h3>
-		<a href="chongzhi.php" class="btn_uh">升级高级会员</a>
-	</div>
-</div>
-
 
 <script>
 /*	日历	*/
@@ -579,31 +611,8 @@ if( $('#tb_aq2').length > 0 ){
 			return false;
 		});
 	})
-	
-	$(".update_user").click(function(){
-		layer.open({
-			type: 1,
-			title: false,
-			shadeClose: true, //开启遮罩关闭
-			skin: 'update_huser_w', //加上class设置样式
-			area: ["1039px","80%"], //宽高
-			content: $(".update_huser"),
-			success: function(layero){
-			}
-		});
-		return false;
-	});
-	$(".btn_uh").click(function(){
-		var yu_e = $("#yu_e").attr("data");
-		console.log(yu_e);
-		if( yu_e >= 100000 ){
-			$(this).html("申请等待升级审核").css("background","#999");
-			return false;
-		}
-	});
-	$(".update_user").click();
-	
 </script>
+
 
 </body>
 </html>
