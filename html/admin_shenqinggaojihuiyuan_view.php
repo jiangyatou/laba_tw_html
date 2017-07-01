@@ -67,9 +67,9 @@
 					</div>
 					<div class="item_f"><p><i class="LGntas"></i>状态：</p>
 						<div class="r radio_w">
-							<label><input type="radio" name="status" class="radio_f" value="1" />在线</label>
-							<label><input type="radio" name="status" class="radio_f" value="2" />下架</label>
-							<label><input type="radio" name="status" class="radio_f" value="3" />审核</label>
+							<label><input type="radio" name="status" class="radio_f" value="1" />待审核</label>
+							<label><input type="radio" name="status" class="radio_f" value="2" />未通过</label>
+							<label><input type="radio" name="status" class="radio_f" value="3" />启用</label>
 						</div>
 					</div>
 					<div class="item_f item_f_2" style="margin-top:20px;">
@@ -367,6 +367,7 @@
 
 <?php include("foot.php"); ?>
 
+
 <script>
 /*	日历	*/
 	if( $('#datepicker1').length>0 && typeof(picker1)!="object" ){
@@ -389,15 +390,70 @@
 			yearRange: [2000,2020]
 		});
 	}
+	if( $('#datepicker3').length>0 && typeof(picker3)!="object" ){
+		var picker3 = new Pikaday({
+			field: document.getElementById('datepicker3'),
+			firstDay: 1,
+			format: "YYYY-MM-DD",
+			minDate: new Date('2000-01-01'),
+			maxDate: new Date('2020-12-31'),
+			yearRange: [2000,2020]
+		});
+	}
+
+	
+/*	柱状图	*/
+if( $('#tb_hv1').length > 0 ){
+	var myChart_hv1 = echarts.init(document.getElementById('tb_hv1'));
+	option_hv1 = {
+		color: ['#3398DB'],
+		tooltip : {
+			trigger: 'axis',
+			axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+				type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+			}
+		},
+		grid: {
+			left: '3%',
+			right: '4%',
+			bottom: '3%',
+			containLabel: true
+		},
+		xAxis : [
+			{
+				type : 'category',
+//				data : ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+				data : ['网络媒体', '户外媒体', '平面媒体', '电视媒体', '广播媒体', '内容代写', '记者报料'],
+				axisTick: {
+					alignWithLabel: true
+				}
+			}
+		],
+		yAxis : [
+			{
+				type : 'value'
+			}
+		],
+		series : [
+			{
+				name:'直接访问',
+				type:'bar',
+				barWidth: '60%',
+				data:[10, 52, 200, 334, 390, 330, 220]
+			}
+		]
+	};
+	myChart_hv1.setOption(option_hv1);
+}
 
 /*	饼状图	*/
-if( $('#tb_aq1').length > 0 ){
-	var myChart_hv2 = echarts.init(document.getElementById('tb_aq1'));
+if( $('#tb_hv2').length > 0 ){
+	var myChart_hv2 = echarts.init(document.getElementById('tb_hv2'));
 	option_hv2 = {
 		title : {
-			text: '',
-			subtext: '',
-			x:'center',
+			text: '会员账户金额分布统计图',
+			subtext: '今天天气',
+			x:'75',
 			y:'bottom',
 			textStyle:{
 				fontSize: '14',
@@ -412,74 +468,19 @@ if( $('#tb_aq1').length > 0 ){
 		legend: {
 			orient: 'vertical',
 			left: 'left',
-			data: []
+			data: ['平台纯收益','充值金额','提现金额','订单消费金额']
 		},
 		series : [
 			{
 				name: '访问来源',
 				type: 'pie',
-				radius : '45%',
-				center: ['50%', '55%'],
+				radius : '55%',
+				center: ['60%', '55%'],
 				data:[
-					{value:335, name:'总金额'},
+					{value:335, name:'平台纯收益'},
 					{value:310, name:'充值金额'},
 					{value:234, name:'提现金额'},
-					{value:135, name:'消费金额'}
-				],
-				itemStyle: {
-					emphasis: {
-						shadowBlur: 10,
-						shadowOffsetX: 0,
-						shadowColor: 'rgba(0, 0, 0, 0.5)'
-					}
-				}
-			}
-		]
-	};
-	myChart_hv2.setOption(option_hv2);
-}
-	
-</script>
-<script>
-/*	饼状图	*/
-if( $('#tb_aq2').length > 0 ){
-	var myChart_hv2 = echarts.init(document.getElementById('tb_aq2'));
-	option_hv2 = {
-		title : {
-			text: '发布订单的类型统计',
-			subtext: '',
-			x:'center',
-			y:'top',
-			textStyle:{
-				fontSize: '18',
-				color: '#474747',
-				fontWeight: 'normal'
-			}
-		},
-		tooltip : {
-			trigger: 'item',
-			formatter: "{a} <br/>{b} : {c} ({d}%)"
-		},
-		legend: {
-			orient: 'vertical',
-			left: 'left',
-			data: []
-		},
-		series : [
-			{
-				name: '访问来源',
-				type: 'pie',
-				radius : '45%',
-				center: ['50%', '55%'],
-				data:[
-					{value:335, name:'网络媒体'},
-					{value:100, name:'户外媒体'},
-					{value:200, name:'平面媒体'},
-					{value:330, name:'电视媒体'},
-					{value:444, name:'广播媒体'},
-					{value:555, name:'记者预约'},
-					{value:666, name:'内容代写'},
-					{value:777, name:'宣传定制'}
+					{value:135, name:'订单消费金额'}
 				],
 				itemStyle: {
 					emphasis: {
@@ -612,7 +613,6 @@ if( $('#tb_aq2').length > 0 ){
 		});
 	})
 </script>
-
 
 </body>
 </html>
